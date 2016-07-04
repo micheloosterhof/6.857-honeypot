@@ -1,0 +1,5 @@
+root:x:password
+root:x:root
+server:x:server
+richard:x:*
+richard:x:fout

